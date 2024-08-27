@@ -39,3 +39,24 @@ Volg deze stappen om het project te installeren, de Docker-image te bouwen en de
    docker run -it --rm -v "$(pwd)/output:/output" mijn-python-app
 
    Dit commando start de container en koppelt de output map de lokale machine aan de /output map in de container. Hierdoor worden de gegenereerde CSV-bestanden opgeslagen in de output map op je lokale machine. De optie --rm zorgt ervoor dat de container automatisch wordt verwijderd nadat deze is gestopt.
+
+3. **Press Ctrl+c**:
+   Dit stopt het uitwisselen van data en schrijft de opgebouwde lijsten naar app\output\Docker_out
+
+## Interpretatie
+
+Bijvoorbeeld uit: ‘BewegingSport_processed_history.csv’:
+85.37,45.751726006640574,"{'HR_bpm': [134.89], 'Activiteit_sport': [7.0], 'Poi_sport': [10.0], 'BewegingSport_recent': 0}","{9: array([0.25]), 10: array([0.70864865]), 16: array([0.25])}",45.751726006640574
+
+85.37 -> zoveel seconden sinds start metingen.
+45.751726006640574 -> score tussen 0 en 10 die wordt gegeven over de intensiteit van de sport.
+"{'HR_bpm': [134.89], 'Activiteit_sport': [7.0], 'Poi_sport': [10.0], 'BewegingSport_recent': 0}"
+-> de inputwaarden waarmee de fuzzylogica aan de slag is gegaan.
+"{9: array([0.25]), 10: array([0.70864865]), 16: array([0.25])}"
+-> de regels en hun waarheidsgehalte.
+
+Deze regels waren dus bijvoorbeeld:
+ 
+Regel 10: {'HR_bpm': 'drempel', 'Poi_sport': 'hoog'}, {'Intensiviteit_sport': 'gemiddeld'} of als HR_bpm boven aerobe drempel en Poi_sport is hoog (gemapped getal door mappingmanager, gym is bv 10/10, office een 2 ofzo) dan is de Intensiviteit van sport gemiddeld. Deze regel zal voor het grootste deel meewegen (0.7)
+
+Regel 16: {'HR_bpm': 'drempel', 'Activiteit_sport': 'hoog', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'} of als HR_bpm boven de aerobe drempel en de detection van sport hoog is en de afgelopen 10 minuten geen sport is vastgesteld (gemiddeld), dan is de intensiviteit van sport heel kort (0.25)
