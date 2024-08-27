@@ -38,4 +38,4 @@ Volg deze stappen om het project te installeren, de Docker-image te bouwen en de
 2. **Run conatiner**:
    docker run -it --rm -v "$(pwd)/output:/output" mijn-python-app
 
-   Dit commando start de container en koppelt de output map op je lokale machine aan de /output map in de container. Hierdoor worden de gegenereerde CSV-bestanden opgeslagen in de output map op je machine. De optie --rm zorgt ervoor dat de container automatisch wordt verwijderd nadat deze is gestopt.
+   Dit commando start de container en koppelt de output map de lokale machine aan de /output map in de container. Hierdoor worden de gegenereerde CSV-bestanden opgeslagen in de output map op je lokale machine. De optie --rm zorgt ervoor dat de container automatisch wordt verwijderd nadat deze is gestopt.
