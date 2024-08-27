@@ -1,0 +1,1244 @@
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+elta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [63], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [60], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [64], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [65], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [64], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [62], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [64], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [64], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [64], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [60], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+Sport - 0 - {'HR_bpm': [65], 'Activiteit_sport': [5], 'Poi_sport': [0], 'BewegingSport_recent': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': 0, 'HF_delta': 0, 'RMSSD_delta': 0, 'LFn_delta': 0, 'HFn_delta': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': [93.33333333333331], 'BewegingSport': [6.666666666666667], 'Roken': 5, 'Cafeïne': -1, 'Temperatuurschommeling': -1, 'EtenTijdSindsMaaltijd': -1, 'AlcoholHoeveelheid': -1} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [-100.0], 'RMSSD_delta': [420.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [-100.0], 'RMSSD_delta': [403.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [-100.0], 'RMSSD_delta': [780.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [-100.0], 'RMSSD_delta': [1406.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [-100.0], 'RMSSD_delta': [1406.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [221250.0], 'RMSSD_delta': [2303.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [221250.0], 'RMSSD_delta': [2303.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [-100.0], 'RMSSD_delta': [2390.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [522350.0], 'RMSSD_delta': [2536.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [668500.0], 'RMSSD_delta': [3056.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [1120460.0], 'RMSSD_delta': [3093.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [-100.0], 'HF_delta': [525330.0], 'RMSSD_delta': [3010.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': [93.33333333333331], 'BewegingSport': [6.666666666666667], 'Roken': 5, 'Cafeïne': -1, 'Temperatuurschommeling': -1, 'EtenTijdSindsMaaltijd': -1, 'AlcoholHoeveelheid': -1} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 80, 'BewegingSport': 10, 'Roken': 1062, 'Cafeïne': 0, 'Temperatuurschommeling': -3, 'AlcoholHoeveelheid': -1} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -5.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.795918367346939, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.591836734693878, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.387755102040816, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.183673469387755, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.979591836734694, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.7755102040816326, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.571428571428571, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.36734693877551, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.163265306122449, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.9591836734693877, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.7551020408163263, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.5510204081632653, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 81.63265306122449, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.6734693877551, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 85.71428571428572, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.75510204081633, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 89.79591836734694, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.83673469387756, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 93.87755102040816, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.91836734693878, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 97.9591836734694, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.5510204081632653, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.755102040816327, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.959183673469388, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.163265306122449, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.36734693877551, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.571428571428571, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.775510204081632, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.979591836734695, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.183673469387756, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.387755102040817, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.591836734693878, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.795918367346939, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 5.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -5.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.795918367346939, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.591836734693878, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.387755102040816, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.183673469387755, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.979591836734694, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.7755102040816326, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.571428571428571, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.36734693877551, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.163265306122449, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.9591836734693877, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.7551020408163263, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.5510204081632653, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.5510204081632653, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.755102040816327, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.959183673469388, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.163265306122449, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.36734693877551, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.571428571428571, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.775510204081632, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.979591836734695, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.183673469387756, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.387755102040817, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.591836734693878, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.795918367346939, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 5.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -5.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.795918367346939, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.591836734693878, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.387755102040816, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -4.183673469387755, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.979591836734694, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.7755102040816326, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.571428571428571, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.36734693877551, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -3.163265306122449, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.9591836734693877, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.7551020408163263, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.5510204081632653, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -2.142857142857143, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.3265306122448979, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -1.1224489795918364, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.5102040816326525, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': -0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.1020408163265305, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.3061224489795915, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.5102040816326534, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.7142857142857144, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 0.9183673469387754, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.1224489795918373, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.3265306122448983, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.5306122448979593, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.7346938775510203, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 1.9387755102040813, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.1428571428571432, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.3469387755102042, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.5510204081632653, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.755102040816327, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 2.959183673469388, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.163265306122449, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.36734693877551, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.571428571428571, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.775510204081632, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 3.979591836734695, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.183673469387756, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.387755102040817, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.591836734693878, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 4.795918367346939, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 79.59183673469389, 'Temperatuurschommeling': 5.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.33333333333334, 'Temperatuurschommeling': -1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.5, 'Temperatuurschommeling': -1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.66666666666667, 'Temperatuurschommeling': -1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.83333333333334, 'Temperatuurschommeling': -1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': -1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 83.33333333333334, 'Temperatuurschommeling': 1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 87.5, 'Temperatuurschommeling': 1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 91.66666666666667, 'Temperatuurschommeling': 1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 95.83333333333334, 'Temperatuurschommeling': 1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'fysiologische_stressreactie': 100.0, 'Temperatuurschommeling': 1.0, 'Roken': 0, 'Cafeïne': 0, 'BewegingSport': 0, 'AlcoholHoeveelheid': 0} - 0
+mentale_stress - 0 - {'Roken': 0.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 1.25, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 2.5, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 3.75, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 5.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 6.25, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 7.5, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 8.75, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 10.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 11.25, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 12.5, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 13.75, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 15.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 16.25, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 17.5, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 18.75, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 20.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 21.25, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 22.5, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 23.75, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 25.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 26.25, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 27.5, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 28.75, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 30.0, 'fysiologische_stressreactie': 25.0} - 0
+mentale_stress - 0 - {'Roken': 0.0, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 1.25, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 2.5, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 3.75, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 5.0, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 6.25, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 7.5, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 8.75, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 10.0, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 11.25, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 12.5, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 13.75, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 15.0, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 16.25, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 17.5, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 18.75, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 20.0, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 21.25, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 22.5, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 23.75, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 25.0, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 26.25, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 27.5, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 28.75, 'fysiologische_stressreactie': 75.0} - 0
+mentale_stress - 0 - {'Roken': 30.0, 'fysiologische_stressreactie': 75.0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [388310.0], 'HF_delta': [878460.0], 'RMSSD_delta': [1789.9999999999998], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [386710.0], 'HF_delta': [843010.0], 'RMSSD_delta': [1806.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [402000.0], 'HF_delta': [792390.0], 'RMSSD_delta': [1806.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [372930.0], 'HF_delta': [793630.0], 'RMSSD_delta': [1853.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [352260.0], 'HF_delta': [811050.0], 'RMSSD_delta': [1896.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [326790.0], 'HF_delta': [840210.0], 'RMSSD_delta': [1856.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [304760.0], 'HF_delta': [894790.0], 'RMSSD_delta': [1846.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [284340.0], 'HF_delta': [940750.0], 'RMSSD_delta': [1860.0000000000002], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [265380.0], 'HF_delta': [970390.0], 'RMSSD_delta': [1866.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [257490.0], 'HF_delta': [1052980.0], 'RMSSD_delta': [1873.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [255069.99999999997], 'HF_delta': [1094790.0], 'RMSSD_delta': [1876.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [255450.0], 'HF_delta': [1106450.0], 'RMSSD_delta': [1893.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [300750.0], 'HF_delta': [975029.9999999999], 'RMSSD_delta': [1880.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [272580.0], 'HF_delta': [1061030.0], 'RMSSD_delta': [1870.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [285540.0], 'HF_delta': [1050270.0], 'RMSSD_delta': [1880.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [302350.0], 'HF_delta': [1012910.0], 'RMSSD_delta': [1810.0000000000002], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [313160.0], 'HF_delta': [953570.0000000001], 'RMSSD_delta': [1746.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [319230.0], 'HF_delta': [941960.0], 'RMSSD_delta': [1736.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [299270.0], 'HF_delta': [980620.0000000001], 'RMSSD_delta': [1746.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [253480.00000000003], 'HF_delta': [812800.0], 'RMSSD_delta': [1763.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [339220.0], 'HF_delta': [994350.0], 'RMSSD_delta': [1766.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [342670.0], 'HF_delta': [1042979.9999999999], 'RMSSD_delta': [1756.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [348690.0], 'HF_delta': [1102250.0], 'RMSSD_delta': [1860.0000000000002], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [357730.0], 'HF_delta': [1128620.0], 'RMSSD_delta': [1933.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [357480.0], 'HF_delta': [1130820.0], 'RMSSD_delta': [1923.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [367610.0], 'HF_delta': [1154920.0], 'RMSSD_delta': [1880.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [368810.0], 'HF_delta': [1134540.0], 'RMSSD_delta': [1886.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [252190.0], 'HF_delta': [1379090.0], 'RMSSD_delta': [1883.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [373480.0], 'HF_delta': [1096570.0], 'RMSSD_delta': [1880.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [311420.0], 'HF_delta': [1333670.0], 'RMSSD_delta': [1893.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [332110.0], 'HF_delta': [1231860.0], 'RMSSD_delta': [1873.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [346220.0], 'HF_delta': [1148180.0], 'RMSSD_delta': [1870.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [349750.0], 'HF_delta': [1071600.0], 'RMSSD_delta': [1883.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [309800.0], 'HF_delta': [1120110.0], 'RMSSD_delta': [1920.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [323450.0], 'HF_delta': [1119690.0], 'RMSSD_delta': [1913.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [315850.0], 'HF_delta': [1101960.0], 'RMSSD_delta': [1930.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [310230.0], 'HF_delta': [1090130.0], 'RMSSD_delta': [1933.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [277820.0], 'HF_delta': [1127790.0], 'RMSSD_delta': [1856.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [278960.0], 'HF_delta': [1103770.0], 'RMSSD_delta': [1863.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [324320.0], 'HF_delta': [990070.0000000001], 'RMSSD_delta': [1810.0000000000002], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [302930.0], 'HF_delta': [1036510.0], 'RMSSD_delta': [1753.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [326030.0], 'HF_delta': [1011750.0], 'RMSSD_delta': [1750.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [339520.0], 'HF_delta': [1004490.0], 'RMSSD_delta': [1753.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [359970.0], 'HF_delta': [935320.0000000001], 'RMSSD_delta': [1753.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [367320.0], 'HF_delta': [970300.0], 'RMSSD_delta': [1750.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [373250.0], 'HF_delta': [984729.9999999999], 'RMSSD_delta': [1780.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [380460.0], 'HF_delta': [1008460.0], 'RMSSD_delta': [1820.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [381950.0], 'HF_delta': [1017740.0], 'RMSSD_delta': [1806.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [384510.0], 'HF_delta': [1023440.0], 'RMSSD_delta': [1803.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [386710.0], 'HF_delta': [1015110.0], 'RMSSD_delta': [1796.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [396040.0], 'HF_delta': [990500.0], 'RMSSD_delta': [1800.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [378130.0], 'HF_delta': [1216450.0], 'RMSSD_delta': [1826.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [450560.00000000006], 'HF_delta': [900450.0], 'RMSSD_delta': [1820.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [483650.0], 'HF_delta': [897910.0], 'RMSSD_delta': [1833.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [376350.0], 'HF_delta': [951650.0], 'RMSSD_delta': [1833.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [567380.0], 'HF_delta': [845660.0], 'RMSSD_delta': [1836.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [399930.0], 'HF_delta': [773990.0], 'RMSSD_delta': [1800.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [709000.0], 'HF_delta': [892050.0], 'RMSSD_delta': [1789.9999999999998], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [388010.0], 'HF_delta': [750820.0], 'RMSSD_delta': [1736.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [388010.0], 'HF_delta': [750820.0], 'RMSSD_delta': [1736.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [844950.0], 'HF_delta': [1013260.0], 'RMSSD_delta': [1703.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [891679.9999999999], 'HF_delta': [1085990.0], 'RMSSD_delta': [1696.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [936400.0], 'HF_delta': [1156080.0], 'RMSSD_delta': [1613.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [955810.0], 'HF_delta': [1177110.0], 'RMSSD_delta': [1556.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [316000.0], 'HF_delta': [946390.0], 'RMSSD_delta': [1626.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1000860.0], 'HF_delta': [1173200.0], 'RMSSD_delta': [1630.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1017370.0000000001], 'HF_delta': [1130160.0], 'RMSSD_delta': [1626.6666666666665], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1027710.0], 'HF_delta': [1105770.0], 'RMSSD_delta': [1633.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1051230.0], 'HF_delta': [1035940.0], 'RMSSD_delta': [1616.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1058920.0], 'HF_delta': [980470.0000000001], 'RMSSD_delta': [1613.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1074210.0], 'HF_delta': [941040.0], 'RMSSD_delta': [1600.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1083580.0], 'HF_delta': [907970.0000000001], 'RMSSD_delta': [1593.3333333333333], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1074370.0], 'HF_delta': [912540.0], 'RMSSD_delta': [1600.0], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [848470.0000000001], 'HF_delta': [964810.0], 'RMSSD_delta': [1610.0000000000002], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1096390.0], 'HF_delta': [916150.0], 'RMSSD_delta': [1616.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1100250.0], 'HF_delta': [930710.0], 'RMSSD_delta': [1660.0000000000002], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1096340.0], 'HF_delta': [938729.9999999999], 'RMSSD_delta': [1706.6666666666667], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+Sport - 0 - {'HR_bpm': -1, 'Activiteit_sport': -1, 'Poi_sport': -1, 'BewegingSport_recent': 0} - 0
+fysiologische_stressreactie - 0 - {'LF_delta': [1255370.0], 'HF_delta': [1084940.0], 'RMSSD_delta': [1773.3333333333335], 'LFn_delta': [-100.0], 'HFn_delta': [-100.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 67.17016977185247, 'LF_HF_ratio': 0.8759971162500902} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.761264755161733, 'LF_HF_ratio': 0.5291543541611163} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 43.44655505779104, 'LF_HF_ratio': 0.68883658193535} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 16.38228731303397, 'LF_HF_ratio': 0.2961109446769014} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 68.42056972225961, 'LF_HF_ratio': 0.6948386311719789} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 79.45252023407292, 'LF_HF_ratio': 0.492187611309974} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 61.42104172602147, 'LF_HF_ratio': 0.6067443676559398} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 39.779303739789626, 'LF_HF_ratio': 0.8828925293118186} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.01300916202213, 'LF_HF_ratio': 0.1327128412608751} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 82.99231457145436, 'LF_HF_ratio': 0.6461377568052886} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.552388588484604, 'LF_HF_ratio': 0.4951945867265528} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 60.51028614942874, 'LF_HF_ratio': 0.1994509814554874} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.85028835683235, 'LF_HF_ratio': 0.273270825055227} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.159066079237675, 'LF_HF_ratio': 0.6178901841567567} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.974549705011697, 'LF_HF_ratio': 0.557593467300243} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 72.12161149824931, 'LF_HF_ratio': 0.6012319818633463} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 63.145998978342284, 'LF_HF_ratio': 0.7076194441388642} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 49.00759024842298, 'LF_HF_ratio': 0.6750205820141721} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.266533040365147, 'LF_HF_ratio': 0.3779280481872571} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.485453127325314, 'LF_HF_ratio': 0.6901221117139232} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.381987518269682, 'LF_HF_ratio': 0.5501655222306697} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.416048204663596, 'LF_HF_ratio': 0.6934234586547421} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.77269188659946, 'LF_HF_ratio': 0.3745303752235228} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.24588004966922, 'LF_HF_ratio': 0.7983146416043914} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.13031213738066, 'LF_HF_ratio': 0.6867702308289539} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.367379782568221, 'LF_HF_ratio': 0.3617896359617167} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.303689072877205, 'LF_HF_ratio': 0.9167383807862564} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.606016413193046, 'LF_HF_ratio': 0.3535432186657199} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.127619852431451, 'LF_HF_ratio': 0.5273220824799386} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.280008634563174, 'LF_HF_ratio': 0.3279057104852697} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.053074632110864, 'LF_HF_ratio': 0.3935867967974216} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 72.9322352439495, 'LF_HF_ratio': 0.3084440046451378} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 73.26853111833492, 'LF_HF_ratio': 0.3753279270353917} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.633281949960264, 'LF_HF_ratio': 0.5821479221474098} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 86.29193262669347, 'LF_HF_ratio': 0.8312144018736921} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 5.367896280660517, 'LF_HF_ratio': 0.2802425361977378} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 12.59207748960958, 'LF_HF_ratio': 0.8997205791593921} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.424626130231445, 'LF_HF_ratio': 0.9373144248324968} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.7224625003916, 'LF_HF_ratio': 0.2464205271436097} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 7.5892913060109635, 'LF_HF_ratio': 0.5767173284995536} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 11.164013630585472, 'LF_HF_ratio': 0.5334218002333052} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.244356978353693, 'LF_HF_ratio': 0.4581877894402519} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.512287886048085, 'LF_HF_ratio': 0.7085766242560108} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.4609940099225, 'LF_HF_ratio': 0.7070955436043694} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.68747901840188, 'LF_HF_ratio': 0.7660925596474143} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 85.16568780894045, 'LF_HF_ratio': 0.6134829823491219} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 72.729404237193, 'LF_HF_ratio': 0.7497605660349058} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 64.00833429806283, 'LF_HF_ratio': 0.3628625945726136} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.209880924639975, 'LF_HF_ratio': 0.9556613984803424} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 90.94407566147994, 'LF_HF_ratio': 0.2519820072919072} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 40.93766392182957, 'LF_HF_ratio': 0.8319270577976888} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 58.07540050267919, 'LF_HF_ratio': 0.8097106719855235} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 93.07908687660809, 'LF_HF_ratio': 0.6300533453929797} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 92.70478657687872, 'LF_HF_ratio': 0.4531868341828115} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 92.3526254860559, 'LF_HF_ratio': 0.7797716602423037} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.03873237083957, 'LF_HF_ratio': 0.8674790149142719} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 91.89089678539884, 'LF_HF_ratio': 0.4026560654572292} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 58.45425517524715, 'LF_HF_ratio': 0.602306906216967} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 80.59306513436186, 'LF_HF_ratio': 0.3421344303333496} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 80.27496709566944, 'LF_HF_ratio': 0.7936312830666735} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 43.86093655533213, 'LF_HF_ratio': 0.5208641961143556} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.200656291114512, 'LF_HF_ratio': 0.8453658504520464} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 56.71852920376072, 'LF_HF_ratio': 0.736189595339198} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.199710117598926, 'LF_HF_ratio': 0.3210749212467125} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.544398698420977, 'LF_HF_ratio': 0.7366797248489639} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.32648618608361, 'LF_HF_ratio': 0.479347986740029} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.50249678578595, 'LF_HF_ratio': 0.4350054672853885} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 21.161902279583686, 'LF_HF_ratio': 0.4528703555743621} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 40.42487388033565, 'LF_HF_ratio': 0.6545381349001772} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.651987459104532, 'LF_HF_ratio': 0.863922689401685} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 17.119354112278074, 'LF_HF_ratio': 0.2756934015676562} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.753530163375558, 'LF_HF_ratio': 0.575631638888957} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.956935431127576, 'LF_HF_ratio': 0.7729180817625263} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.003590073061687, 'LF_HF_ratio': 0.5787242978490056} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.10870204791719, 'LF_HF_ratio': 0.5444027139341223} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.9285994397802, 'LF_HF_ratio': 0.8736282697449336} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 69.60098685812318, 'LF_HF_ratio': 0.2681986423650633} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.05312574967124, 'LF_HF_ratio': 0.8066604640787152} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.71611411376077, 'LF_HF_ratio': 0.2990178728160347} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 66.47152174394628, 'LF_HF_ratio': 0.6372296040824978} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 29.57934663003593, 'LF_HF_ratio': 0.2348777411324069} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.12126204099762, 'LF_HF_ratio': 0.4283365738400812} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 50.10810072864307, 'LF_HF_ratio': 0.7490878409800336} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.35210264318866, 'LF_HF_ratio': 0.460850708956683} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.61378739332204, 'LF_HF_ratio': 0.4621729703232592} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.90271283047953, 'LF_HF_ratio': 0.5699897056060873} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 63.130781324873645, 'LF_HF_ratio': 0.8792416582038509} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.95713027351644, 'LF_HF_ratio': 0.529611194484584} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 88.97963299109377, 'LF_HF_ratio': 0.7777416825975209} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 77.08990871670967, 'LF_HF_ratio': 0.5316856792900396} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 47.0685133849341, 'LF_HF_ratio': 0.9972735273436112} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.31566220392338, 'LF_HF_ratio': 0.4430680571537495} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.645895558187746, 'LF_HF_ratio': 0.3432540209179163} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.60681299930303, 'LF_HF_ratio': 0.5661327468422448} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 60.29161857295672, 'LF_HF_ratio': 0.5571380288155852} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 16.44195652593652, 'LF_HF_ratio': 0.9059763152431132} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 76.44737671023061, 'LF_HF_ratio': 0.629754559094592} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.89407108634748, 'LF_HF_ratio': 0.3759386713593283} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 80.87485224643363, 'LF_HF_ratio': 0.6956639574005571} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.80075018498022, 'LF_HF_ratio': 0.2844635163130685} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.63695998068242, 'LF_HF_ratio': 0.5899048679045404} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 67.17016977185247, 'LF_HF_ratio': 0.8759971162500902} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.761264755161733, 'LF_HF_ratio': 0.5291543541611163} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 43.44655505779104, 'LF_HF_ratio': 0.68883658193535} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 16.38228731303397, 'LF_HF_ratio': 0.2961109446769014} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 68.42056972225961, 'LF_HF_ratio': 0.6948386311719789} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 79.45252023407292, 'LF_HF_ratio': 0.492187611309974} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 61.42104172602147, 'LF_HF_ratio': 0.6067443676559398} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 39.779303739789626, 'LF_HF_ratio': 0.8828925293118186} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.01300916202213, 'LF_HF_ratio': 0.1327128412608751} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 82.99231457145436, 'LF_HF_ratio': 0.6461377568052886} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.552388588484604, 'LF_HF_ratio': 0.4951945867265528} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 60.51028614942874, 'LF_HF_ratio': 0.1994509814554874} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.85028835683235, 'LF_HF_ratio': 0.273270825055227} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.159066079237675, 'LF_HF_ratio': 0.6178901841567567} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.974549705011697, 'LF_HF_ratio': 0.557593467300243} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 72.12161149824931, 'LF_HF_ratio': 0.6012319818633463} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 63.145998978342284, 'LF_HF_ratio': 0.7076194441388642} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 49.00759024842298, 'LF_HF_ratio': 0.6750205820141721} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.266533040365147, 'LF_HF_ratio': 0.3779280481872571} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.485453127325314, 'LF_HF_ratio': 0.6901221117139232} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.381987518269682, 'LF_HF_ratio': 0.5501655222306697} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.416048204663596, 'LF_HF_ratio': 0.6934234586547421} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.77269188659946, 'LF_HF_ratio': 0.3745303752235228} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.24588004966922, 'LF_HF_ratio': 0.7983146416043914} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.13031213738066, 'LF_HF_ratio': 0.6867702308289539} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.367379782568221, 'LF_HF_ratio': 0.3617896359617167} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.303689072877205, 'LF_HF_ratio': 0.9167383807862564} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.606016413193046, 'LF_HF_ratio': 0.3535432186657199} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.127619852431451, 'LF_HF_ratio': 0.5273220824799386} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.280008634563174, 'LF_HF_ratio': 0.3279057104852697} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.053074632110864, 'LF_HF_ratio': 0.3935867967974216} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 72.9322352439495, 'LF_HF_ratio': 0.3084440046451378} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 73.26853111833492, 'LF_HF_ratio': 0.3753279270353917} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.633281949960264, 'LF_HF_ratio': 0.5821479221474098} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 86.29193262669347, 'LF_HF_ratio': 0.8312144018736921} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 5.367896280660517, 'LF_HF_ratio': 0.2802425361977378} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 12.59207748960958, 'LF_HF_ratio': 0.8997205791593921} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.424626130231445, 'LF_HF_ratio': 0.9373144248324968} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.7224625003916, 'LF_HF_ratio': 0.2464205271436097} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 7.5892913060109635, 'LF_HF_ratio': 0.5767173284995536} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 11.164013630585472, 'LF_HF_ratio': 0.5334218002333052} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.244356978353693, 'LF_HF_ratio': 0.4581877894402519} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.512287886048085, 'LF_HF_ratio': 0.7085766242560108} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.4609940099225, 'LF_HF_ratio': 0.7070955436043694} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.68747901840188, 'LF_HF_ratio': 0.7660925596474143} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 85.16568780894045, 'LF_HF_ratio': 0.6134829823491219} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 72.729404237193, 'LF_HF_ratio': 0.7497605660349058} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 64.00833429806283, 'LF_HF_ratio': 0.3628625945726136} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.209880924639975, 'LF_HF_ratio': 0.9556613984803424} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 90.94407566147994, 'LF_HF_ratio': 0.2519820072919072} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 40.93766392182957, 'LF_HF_ratio': 0.8319270577976888} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 58.07540050267919, 'LF_HF_ratio': 0.8097106719855235} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 93.07908687660809, 'LF_HF_ratio': 0.6300533453929797} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 92.70478657687872, 'LF_HF_ratio': 0.4531868341828115} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 92.3526254860559, 'LF_HF_ratio': 0.7797716602423037} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.03873237083957, 'LF_HF_ratio': 0.8674790149142719} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 91.89089678539884, 'LF_HF_ratio': 0.4026560654572292} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 58.45425517524715, 'LF_HF_ratio': 0.602306906216967} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 80.59306513436186, 'LF_HF_ratio': 0.3421344303333496} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 80.27496709566944, 'LF_HF_ratio': 0.7936312830666735} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 43.86093655533213, 'LF_HF_ratio': 0.5208641961143556} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.200656291114512, 'LF_HF_ratio': 0.8453658504520464} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 56.71852920376072, 'LF_HF_ratio': 0.736189595339198} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 6.199710117598926, 'LF_HF_ratio': 0.3210749212467125} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.544398698420977, 'LF_HF_ratio': 0.7366797248489639} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.32648618608361, 'LF_HF_ratio': 0.479347986740029} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.50249678578595, 'LF_HF_ratio': 0.4350054672853885} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 21.161902279583686, 'LF_HF_ratio': 0.4528703555743621} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 40.42487388033565, 'LF_HF_ratio': 0.6545381349001772} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.651987459104532, 'LF_HF_ratio': 0.863922689401685} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 17.119354112278074, 'LF_HF_ratio': 0.2756934015676562} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.753530163375558, 'LF_HF_ratio': 0.575631638888957} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.956935431127576, 'LF_HF_ratio': 0.7729180817625263} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.003590073061687, 'LF_HF_ratio': 0.5787242978490056} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.10870204791719, 'LF_HF_ratio': 0.5444027139341223} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.9285994397802, 'LF_HF_ratio': 0.8736282697449336} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 69.60098685812318, 'LF_HF_ratio': 0.2681986423650633} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.05312574967124, 'LF_HF_ratio': 0.8066604640787152} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.71611411376077, 'LF_HF_ratio': 0.2990178728160347} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 66.47152174394628, 'LF_HF_ratio': 0.6372296040824978} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 29.57934663003593, 'LF_HF_ratio': 0.2348777411324069} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.12126204099762, 'LF_HF_ratio': 0.4283365738400812} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 50.10810072864307, 'LF_HF_ratio': 0.7490878409800336} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.35210264318866, 'LF_HF_ratio': 0.460850708956683} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.61378739332204, 'LF_HF_ratio': 0.4621729703232592} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.90271283047953, 'LF_HF_ratio': 0.5699897056060873} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 63.130781324873645, 'LF_HF_ratio': 0.8792416582038509} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.95713027351644, 'LF_HF_ratio': 0.529611194484584} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 88.97963299109377, 'LF_HF_ratio': 0.7777416825975209} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 77.08990871670967, 'LF_HF_ratio': 0.5316856792900396} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 47.0685133849341, 'LF_HF_ratio': 0.9972735273436112} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.31566220392338, 'LF_HF_ratio': 0.4430680571537495} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.645895558187746, 'LF_HF_ratio': 0.3432540209179163} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.60681299930303, 'LF_HF_ratio': 0.5661327468422448} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 60.29161857295672, 'LF_HF_ratio': 0.5571380288155852} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 16.44195652593652, 'LF_HF_ratio': 0.9059763152431132} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 76.44737671023061, 'LF_HF_ratio': 0.629754559094592} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.89407108634748, 'LF_HF_ratio': 0.3759386713593283} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 80.87485224643363, 'LF_HF_ratio': 0.6956639574005571} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.80075018498022, 'LF_HF_ratio': 0.2844635163130685} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.63695998068242, 'LF_HF_ratio': 0.5899048679045404} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 10.148247210912814, 'LF_HF_ratio': 0.5267157476922334} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.099261296917945, 'LF_HF_ratio': 0.3962097074359052} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.491736702044605, 'LF_HF_ratio': 0.4104163190164266} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 36.743068075375106, 'LF_HF_ratio': 0.9339313415759734} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 60.4810587351852, 'LF_HF_ratio': 0.1697284827318466} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 101.00746254803576, 'LF_HF_ratio': 0.324840425871898} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 38.11147290275497, 'LF_HF_ratio': 0.4263059813295581} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 63.5288274872502, 'LF_HF_ratio': 0.4318901558841572} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 44.894589634199804, 'LF_HF_ratio': 0.4422130563001108} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 52.41908983906319, 'LF_HF_ratio': 0.6128410814847539} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 43.36958781302755, 'LF_HF_ratio': 0.5861226036831688} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.34135784630061, 'LF_HF_ratio': 0.3268242367598933} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 44.01134961246737, 'LF_HF_ratio': 0.4724050204357582} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 35.46665689969228, 'LF_HF_ratio': 0.5924991920626463} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.26826295077558, 'LF_HF_ratio': 0.1944887450915754} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.997827319397118, 'LF_HF_ratio': 0.7002569840071639} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 54.77693626635721, 'LF_HF_ratio': 0.3862636100350388} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 63.86728200318424, 'LF_HF_ratio': 0.4166590406466493} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 48.860221655746074, 'LF_HF_ratio': 0.2771980794489505} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 47.2398933947473, 'LF_HF_ratio': 0.473061343098109} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.549397469920805, 'LF_HF_ratio': 0.4420193688852084} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 21.109079308320602, 'LF_HF_ratio': 0.4604418918567476} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.590484289539546, 'LF_HF_ratio': 0.6673956665990979} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.816104462604585, 'LF_HF_ratio': 0.5043817984875353} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 53.590476536661015, 'LF_HF_ratio': 0.365623633675013} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 61.97029906059254, 'LF_HF_ratio': 0.4185498917740393} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 29.672128345166044, 'LF_HF_ratio': 0.675295673924024} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 29.054201841656493, 'LF_HF_ratio': 0.8962021027822552} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.799384752432104, 'LF_HF_ratio': 0.7744416456593454} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 23.814135586128344, 'LF_HF_ratio': 0.8056452657156957} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.175193941262847, 'LF_HF_ratio': 0.7593097218956559} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 32.76178285607821, 'LF_HF_ratio': 0.4941480462652821} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.891701813810243, 'LF_HF_ratio': 0.4419904973808666} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 49.85438334228516, 'LF_HF_ratio': 0.9979387263543438} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 10.54834435973234, 'LF_HF_ratio': 0.8047983468751533} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.127481782943278, 'LF_HF_ratio': 0.6136443350556954} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.104866104344225, 'LF_HF_ratio': 0.9765260934627876} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.361274513025705, 'LF_HF_ratio': 0.4730761281058966} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 59.85576832465779, 'LF_HF_ratio': 0.5015434280138329} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.19122717457924, 'LF_HF_ratio': 0.9322803556936464} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.554443376909958, 'LF_HF_ratio': 0.604459236237975} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.65647294452883, 'LF_HF_ratio': 0.4854166217688507} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 51.9933136401215, 'LF_HF_ratio': 0.91966589163282} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.4833397927478, 'LF_HF_ratio': 0.7222106962236242} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 10.719562086252083, 'LF_HF_ratio': 0.6174171191117149} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 21.78906001956595, 'LF_HF_ratio': 0.745995318994809} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.679344623752243, 'LF_HF_ratio': 0.8595620931316394} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 35.052617586796345, 'LF_HF_ratio': 0.2256832892812154} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 54.75623211783861, 'LF_HF_ratio': 0.5178617738619221} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 37.14057210342216, 'LF_HF_ratio': 0.793983716254303} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 48.52857936736919, 'LF_HF_ratio': 0.7386725325689084} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.93918974676123, 'LF_HF_ratio': 0.4931552786193069} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.270991047652174, 'LF_HF_ratio': 0.5355407289137772} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.21364744795315, 'LF_HF_ratio': 0.4805359117912203} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.692750788065652, 'LF_HF_ratio': 0.9382698235790682} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.384807951157896, 'LF_HF_ratio': 0.8814127386456209} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 22.91021944090228, 'LF_HF_ratio': 0.5561417971751622} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.025907620573904, 'LF_HF_ratio': 0.2686556492615364} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 60.992307233935094, 'LF_HF_ratio': 0.3633834017419098} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.057497264436776, 'LF_HF_ratio': 0.2753270830998828} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 25.289706415602495, 'LF_HF_ratio': 0.9421352226200178} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 27.49419023608897, 'LF_HF_ratio': 0.5140747369663292} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 51.19208864716276, 'LF_HF_ratio': 0.3017896855197875} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.03164677402319, 'LF_HF_ratio': 0.4438795181695167} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 12.470307071804896, 'LF_HF_ratio': 0.5257859353551468} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 36.47897343626744, 'LF_HF_ratio': 0.6566979977685129} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.877812107019338, 'LF_HF_ratio': 0.3924727663331332} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.657383509920379, 'LF_HF_ratio': 0.2381266409497563} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 59.514850405847795, 'LF_HF_ratio': 0.2609542140066218} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.427873654673576, 'LF_HF_ratio': 0.2998050124867474} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 19.498484959470076, 'LF_HF_ratio': 0.8655826136099336} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 35.939877852766216, 'LF_HF_ratio': 0.4477191875024049} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.201278974755127, 'LF_HF_ratio': 0.5600055888508139} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 23.400658208279253, 'LF_HF_ratio': 0.523190916140562} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 50.63372312983586, 'LF_HF_ratio': 0.4194909477452732} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 11.83165928661252, 'LF_HF_ratio': 0.1626580467274729} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 11.931171356383643, 'LF_HF_ratio': 0.5123412649790128} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 10.088136588191546, 'LF_HF_ratio': 0.3407342978677788} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.96541294287101, 'LF_HF_ratio': 0.6550399500739771} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.82438792163745, 'LF_HF_ratio': 0.5003894057602709} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 52.7394540991597, 'LF_HF_ratio': 0.345386290198432} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 45.418866637701285, 'LF_HF_ratio': 0.3796631196704287} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.459156804361044, 'LF_HF_ratio': 0.3912207002066623} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 36.1456054161348, 'LF_HF_ratio': 0.5828989650294305} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.71044359131733, 'LF_HF_ratio': 0.5066395514250697} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 10.959176166327978, 'LF_HF_ratio': 0.8103270585141976} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 31.81236409365013, 'LF_HF_ratio': 0.5664024542903668} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 23.27430901513054, 'LF_HF_ratio': 0.4321128117481673} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.419433166077653, 'LF_HF_ratio': 0.8726585705716399} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.686798899271295, 'LF_HF_ratio': 0.5769519439793741} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 42.92482541166265, 'LF_HF_ratio': 0.5603208563605112} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 32.853909484938015, 'LF_HF_ratio': 0.5740193109141919} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 36.38373853920794, 'LF_HF_ratio': 0.6422830833129881} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 39.16782734046927, 'LF_HF_ratio': 0.5318890558503758} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 5.388136306671399, 'LF_HF_ratio': 0.7187145653959329} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.09990949009136, 'LF_HF_ratio': 0.5579779447026383} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 54.61724443049974, 'LF_HF_ratio': 0.3050085219903883} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 9.319269260176398, 'LF_HF_ratio': 0.603744620914102} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 10.657897200181594, 'LF_HF_ratio': 0.4998227341462378} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.630188038132303, 'LF_HF_ratio': 0.4465767919628497} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 12.253433503538474, 'LF_HF_ratio': 0.5574744811302885} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 28.818311211453107, 'LF_HF_ratio': 0.5340577330786597} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 21.067779694763445, 'LF_HF_ratio': 0.5300406013508119} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 44.41497380497256, 'LF_HF_ratio': 0.5007028741247822} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 42.52846980825393, 'LF_HF_ratio': 0.1842489469047} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 54.681414902628404, 'LF_HF_ratio': 0.3429859298571768} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 12.353095396222983, 'LF_HF_ratio': 0.4204164001772793} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 39.06027840261132, 'LF_HF_ratio': 0.5744477263360649} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 43.880222555509505, 'LF_HF_ratio': 0.4267947279822207} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 16.050033331406127, 'LF_HF_ratio': 0.3850170387094395} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 14.439787457295779, 'LF_HF_ratio': 0.8338908333549394} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 65.6082055065281, 'LF_HF_ratio': 0.4153982950124789} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.61874291234011, 'LF_HF_ratio': 0.7347606300078724} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 12.119212461693223, 'LF_HF_ratio': 0.5658883968212748} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 37.546342052855806, 'LF_HF_ratio': 0.532441952424031} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 39.964333974574515, 'LF_HF_ratio': 0.5524637852399112} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.365375446370294, 'LF_HF_ratio': 0.3693065525437398} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 26.641035699637754, 'LF_HF_ratio': 0.903015780760598} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.1439917125614, 'LF_HF_ratio': 0.679121116928575} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 59.89094334590982, 'LF_HF_ratio': 0.7055777266070657} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 57.886095748704946, 'LF_HF_ratio': 0.6286244022364245} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 25.516101224769827, 'LF_HF_ratio': 0.2765933320038053} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 20.003289428599444, 'LF_HF_ratio': 0.6852353421794523} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 5.684248240156194, 'LF_HF_ratio': 0.7548134615760439} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 39.1315524562595, 'LF_HF_ratio': 0.4246445269025773} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 52.54417483052336, 'LF_HF_ratio': 0.4795050351286959} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 44.29846145060415, 'LF_HF_ratio': 0.536408162709926} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 54.02776283559379, 'LF_HF_ratio': 0.4163470018989232} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 20.314991514352002, 'LF_HF_ratio': 0.9798296862309832} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.07249491181551, 'LF_HF_ratio': 0.4166577762710267} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 42.7576136804488, 'LF_HF_ratio': 0.8022163957469167} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 55.43759019119037, 'LF_HF_ratio': 0.6100671862514161} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 16.064623531216597, 'LF_HF_ratio': 0.7407203163634937} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.47934109675799, 'LF_HF_ratio': 0.3414302294093296} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 37.78001872471424, 'LF_HF_ratio': 0.9342518276293468} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 36.69319995514954, 'LF_HF_ratio': 0.6078144261799746} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 47.5609102107405, 'LF_HF_ratio': 0.8119710954331226} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.813930159724976, 'LF_HF_ratio': 0.524681321193685} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 13.789956741881, 'LF_HF_ratio': 0.3276501948845294} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 34.574365026264275, 'LF_HF_ratio': 0.4589053357866108} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 66.75229675246521, 'LF_HF_ratio': 0.9667119834299152} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 66.40840047042829, 'LF_HF_ratio': 0.2517056266555686} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 13.308719785290322, 'LF_HF_ratio': 0.3064027582380643} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.084289325049923, 'LF_HF_ratio': 0.8353696830362338} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 30.700082436519693, 'LF_HF_ratio': 0.4315630696844205} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 18.37457244769213, 'LF_HF_ratio': 0.3499871132402257} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 15.774889332704618, 'LF_HF_ratio': 0.6479330319731875} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 32.13072593319157, 'LF_HF_ratio': 0.2779506476888161} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 8.126350591831638, 'LF_HF_ratio': 0.3436833322897671} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': 0, 'LF_HF_ratio': 0, 'LFn_delta': 0, 'HFn_delta': 0, 'LF_delta': 0, 'HF_delta': 0} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
+fysiologische_stressreactie - 0 - {'RMSSD_delta': [0.0], 'LF_HF_ratio': 0, 'LFn_delta': [0.0], 'HFn_delta': [0.0], 'LF_delta': [0.0], 'HF_delta': [0.0]} - 0
