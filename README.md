@@ -29,7 +29,7 @@ Volg deze stappen om het project te installeren, de Docker-image te bouwen en de
    Gebruik git om de repository te klonen naar je lokale machine en bouw daarna de Docker-image:
 
    ```bash
-   git clone https://github.com/woutvercauter/Thesis_Project.git
+   git clone https://github.com/woutvercauter/Thesis_Project_Stress.git
    cd Thesis_Project
    docker build -t mijn-python-app .
 
