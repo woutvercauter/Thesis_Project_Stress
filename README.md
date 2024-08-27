@@ -15,7 +15,7 @@ Om dit project te gebruiken, heb je het volgende nodig:
 - **Docker**: Dit is nodig om de gecontaineriseerde omgeving te draaien.
 - **Python Libraries**: De volgende Python-bibliotheken worden gebruikt in dit project:
   - **`scikit-fuzzy`**: Gebruikt voor fuzzy logic controlesystemen.
-  - **`neurokit2`**: Gebruikt voor neurofysiologische signaalverwerking.
+  - **`neurokit2`**: Gebruikt voor neurofysiologische signaalverwerking, geval van deze thesis voor verwerking HRV-gegevens.
   - **`numpy`**: Voor numerieke berekeningen.
   - **`pandas`**: Voor datamanipulatie en -analyse.
   - **`matplotlib`**: Voor het visualiseren van data.
