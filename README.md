@@ -6,6 +6,8 @@ Dit is het thesisproject van Wout Vercauter. Dit project maakt gebruik van Docke
 
 Het uiteindelijke doel is een uitgebreid scala aan streams te ontwikkelen die verschillende gedragingen van het individu zoals sportactiviteiten, alcoholgebruik en slaap monitoren. Synchroon opereert ook een stream dat stress voorspelt zonder contextuele input. Wanneer deze ‘fysiologische stressreactie’-stream een positief signaal geeft, wordt gekeken naar de contextuele streams om de veranderingen in fysiologische parameters mogelijks te verklaren. Op deze manier kunnen de vals positieve van de reële stresssignalen gescheiden worden op een transparante manier. In het eerste deel van dit hoofdstuk wordt de architectuur van deze streams toegelicht, met hun verschillende eigenschappen en hun onderlinge interacties.
 
+Dit alles maakt gebruik van fuzzy-technologie voor zijn berekeningen.
+
 ## Vereisten
 
 Om dit project te gebruiken, heb je het volgende nodig:
