@@ -382,11 +382,20 @@ class StrategyStream(CalculateEventProcessor):
                     # De lus gaat verder, zelfs na een fout
 
         # Voer de strategie uit met de verzamelde invoerwaarden
-        strategy_output = self.strategy.execute(**input_values)
+
+        #OPTIONEEL
+        try:
+            strategy_output = self.strategy.execute(**input_values)
+        except Exception as e:
+            strategy_output = None
+
         if (strategy_output is None):
             if isinstance(self.default_output, int):
                 return RuleBasedResult(self.default_output, 0, 0)
             else:
-                return RuleBasedResult(self.default_output.data_store_manager.get_value(1, 'output'), 0, 0)
+                try:
+                    return RuleBasedResult(self.default_output.data_store_manager.get_value(1, 'output'), 0, 0)
+                except InsufficientDataError as e:
+                    return RuleBasedResult(0, 0, 0)
         
         return RuleBasedResult(strategy_output.output, strategy_output.input_values, strategy_output.relevant_rules)

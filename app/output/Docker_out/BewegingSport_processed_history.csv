@@ -1,0 +1,6 @@
+timestamp,output,input,relevant,string_output
+5.08,0,0,0,0
+10.1,7.222222222222223,"{'HR_bpm': [59.0], 'Activiteit_sport': [1.0], 'Poi_sport': [4.0], 'BewegingSport_recent': 0}","{1: array([0.36216216]), 2: array([0.5]), 5: array([0.66666667])}",7.222222222222223
+15.11,0,0,0,0
+20.13,0,0,0,0
+25.14,7.222222222222223,"{'HR_bpm': [60.0], 'Activiteit_sport': [1.0], 'Poi_sport': [6.0], 'BewegingSport_recent': 0}","{1: array([0.35135135]), 2: array([0.25]), 5: array([0.66666667])}",7.222222222222223

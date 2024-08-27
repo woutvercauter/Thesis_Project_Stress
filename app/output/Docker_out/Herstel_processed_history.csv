@@ -1,3 +1,6 @@
 timestamp,elapsed_since_last_action,average_intensity,action_duration,max_intensity
-5.04,0,0,0,0
-10.06,0,0,0,0
+5.09,0,0,0,0
+10.1,0,0,0,0
+15.11,0,0,0,0
+20.13,0,0,0,0
+25.15,0,0,0,0

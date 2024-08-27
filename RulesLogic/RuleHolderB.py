@@ -8,18 +8,18 @@ class RuleHolder:
                 Rule('Sport', 2, {'Activiteit_sport': 'laag', 'Poi_sport': 'laag'}, {'Intensiviteit_sport': 'niet'}, "Als activiteit laag en poi laag, geen sport mogelijk"),
                 Rule('Sport', 3, {'HR_bpm': 'licht', 'Activiteit_sport': 'gemiddeld'}, {'Intensiviteit_sport': 'niet'}, "Als hartslag laag en activiteit gemiddeld, geen sport mogelijk"),
                 Rule('Sport', 4, {'HR_bpm': 'licht', 'Activiteit_sport': 'laag'}, {'Intensiviteit_sport': 'niet'}, "Als hartslag laag en activiteit laag, geen sport mogelijk"),
-                Rule('Sport', 6, {'BewegingSport_recent': 'niet', 'Activiteit_sport': 'laag'}, {'Intensiviteit_sport': 'niet'}),
-                Rule('Sport', 7, {'HR_bpm': 'hoog', 'Activiteit_sport': 'hoog'}, {'Intensiviteit_sport': 'zwaar'}),
-                Rule('Sport', 8, {'HR_bpm': 'hoog', 'BewegingSport_recent': 'zwaar'}, {'Intensiviteit_sport': 'zwaar'}),
-                Rule('Sport', 9, {'HR_bpm': 'hoog', 'Poi_sport': 'hoog'}, {'Intensiviteit_sport': 'zwaar'}),
-                Rule('Sport', 10, {'HR_bpm': 'drempel', 'Activiteit_sport': 'hoog'}, {'Intensiviteit_sport': 'gemiddeld'}),
-                Rule('Sport', 11, {'HR_bpm': 'drempel', 'Poi_sport': 'hoog'}, {'Intensiviteit_sport': 'gemiddeld'}),
-                Rule('Sport', 12, {'HR_bpm': 'drempel', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'zwaar'}, {'Intensiviteit_sport': 'gemiddeld'}),
-                Rule('Sport', 13, {'HR_bpm': 'drempel', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'licht'}, {'Intensiviteit_sport': 'gemiddeld'}),
-                Rule('Sport', 14, {'HR_bpm': 'drempel', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
-                Rule('Sport', 15, {'HR_bpm': 'hoog', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
-                Rule('Sport', 16, {'HR_bpm': 'hoog', 'Activiteit_sport': 'hoog', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
-                Rule('Sport', 17, {'HR_bpm': 'drempel', 'Activiteit_sport': 'hoog', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
+                Rule('Sport', 5, {'BewegingSport_recent': 'niet', 'Activiteit_sport': 'laag'}, {'Intensiviteit_sport': 'niet'}),
+                Rule('Sport', 6, {'HR_bpm': 'hoog', 'Activiteit_sport': 'hoog'}, {'Intensiviteit_sport': 'zwaar'}),
+                Rule('Sport', 7, {'HR_bpm': 'hoog', 'BewegingSport_recent': 'zwaar'}, {'Intensiviteit_sport': 'zwaar'}),
+                Rule('Sport', 8, {'HR_bpm': 'hoog', 'Poi_sport': 'hoog'}, {'Intensiviteit_sport': 'zwaar'}),
+                Rule('Sport', 9, {'HR_bpm': 'drempel', 'Activiteit_sport': 'hoog'}, {'Intensiviteit_sport': 'gemiddeld'}),
+                Rule('Sport', 10, {'HR_bpm': 'drempel', 'Poi_sport': 'hoog'}, {'Intensiviteit_sport': 'gemiddeld'}),
+                Rule('Sport', 11, {'HR_bpm': 'drempel', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'zwaar'}, {'Intensiviteit_sport': 'gemiddeld'}),
+                Rule('Sport', 12, {'HR_bpm': 'drempel', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'licht'}, {'Intensiviteit_sport': 'gemiddeld'}),
+                Rule('Sport', 13, {'HR_bpm': 'drempel', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
+                Rule('Sport', 14, {'HR_bpm': 'hoog', 'Activiteit_sport': 'gemiddeld', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
+                Rule('Sport', 15, {'HR_bpm': 'hoog', 'Activiteit_sport': 'hoog', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
+                Rule('Sport', 16, {'HR_bpm': 'drempel', 'Activiteit_sport': 'hoog', 'BewegingSport_recent': 'niet'}, {'Intensiviteit_sport': 'heel kort'}),
 
                 # Regels voor "Lichte Stress"
                 Rule('fysiologische_stressreactie', 1, {'RMSSD_delta': 'constant', 'LF_delta': 'lichte stijging', 'HF_delta': 'lichte daling', 'HFn_delta': 'lichte daling'}, {'fysiologische_stress_niveau': 'licht'}),
@@ -139,16 +139,16 @@ class RuleHolder:
                 Rule('mentale_stress', 35, {'fysiologische_stressreactie': 'ernstig', 'Temperatuurschommeling': 'grote daling'}, {'mentale_stress': 'gemiddelde mentale stress'}),
 
                 # Alcohol - Hoeveelheid
-                Rule('mentale_stress', 36, {'fysiologische_stressreactie': 'licht', 'AlcoholHoeveelheid': '1 consumptie'}, {'mentale_stress': 'geen'}),
-                Rule('mentale_stress', 37, {'fysiologische_stressreactie': 'licht', 'AlcoholHoeveelheid': 'meer consumpties'}, {'mentale_stress': 'geen'}),
-                Rule('mentale_stress', 38, {'fysiologische_stressreactie': 'gematigd', 'AlcoholHoeveelheid': 'meer consumpties'}, {'mentale_stress': 'geen'}),
-                Rule('mentale_stress', 39, {'fysiologische_stressreactie': 'ernstig', 'AlcoholHoeveelheid': 'meer consumpties'}, {'mentale_stress': 'geen'}),
+                # Rule('mentale_stress', 36, {'fysiologische_stressreactie': 'licht', 'AlcoholHoeveelheid': '1 consumptie'}, {'mentale_stress': 'geen'}),
+                # Rule('mentale_stress', 37, {'fysiologische_stressreactie': 'licht', 'AlcoholHoeveelheid': 'meer consumpties'}, {'mentale_stress': 'geen'}),
+                # Rule('mentale_stress', 38, {'fysiologische_stressreactie': 'gematigd', 'AlcoholHoeveelheid': 'meer consumpties'}, {'mentale_stress': 'geen'}),
+                # Rule('mentale_stress', 39, {'fysiologische_stressreactie': 'ernstig', 'AlcoholHoeveelheid': 'meer consumpties'}, {'mentale_stress': 'geen'}),
 
-                # fysiologische stress blijft behouden.
-                Rule('mentale_stress', 40, {'fysiologische_stressreactie': 'geen'}, {'mentale_stress': 'fysiologische component blijft behouden'}),
-                Rule('mentale_stress', 41, {'fysiologische_stressreactie': 'licht', 'BewegingSport': 'niet', 'Roken': 'uitloper', 'Temperatuurschommeling': 'constant'}, {'mentale_stress': 'fysiologische component blijft behouden'}),
-                Rule('mentale_stress', 42, {'fysiologische_stressreactie': 'gematigd', 'BewegingSport': 'niet', 'Roken': 'uitloper', 'Temperatuurschommeling': 'constant'}, {'mentale_stress': 'fysiologische component blijft behouden'}),
-                Rule('mentale_stress', 43, {'fysiologische_stressreactie': 'ernstig', 'BewegingSport': 'niet', 'Roken': 'uitloper', 'Temperatuurschommeling': 'constant'}, {'mentale_stress': 'fysiologische component blijft behouden'})  
+                # # fysiologische stress blijft behouden.
+                # Rule('mentale_stress', 40, {'fysiologische_stressreactie': 'geen'}, {'mentale_stress': 'fysiologische component blijft behouden'}),
+                # Rule('mentale_stress', 41, {'fysiologische_stressreactie': 'licht', 'BewegingSport': 'niet', 'Roken': 'uitloper', 'Temperatuurschommeling': 'constant'}, {'mentale_stress': 'fysiologische component blijft behouden'}),
+                # Rule('mentale_stress', 42, {'fysiologische_stressreactie': 'gematigd', 'BewegingSport': 'niet', 'Roken': 'uitloper', 'Temperatuurschommeling': 'constant'}, {'mentale_stress': 'fysiologische component blijft behouden'}),
+                # Rule('mentale_stress', 43, {'fysiologische_stressreactie': 'ernstig', 'BewegingSport': 'niet', 'Roken': 'uitloper', 'Temperatuurschommeling': 'constant'}, {'mentale_stress': 'fysiologische component blijft behouden'})  
 
 ]
 

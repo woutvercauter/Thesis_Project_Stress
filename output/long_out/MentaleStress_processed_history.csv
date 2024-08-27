@@ -1,262 +1,434 @@
 timestamp,output,input,relevant,string_output
-3.5,-1.0,"{'fysiologische_stressreactie': 0, 'BewegingSport': 0, 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.7399999999999984]}",{40: 1.0},-1.0
-5.53,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.03], 'Temperatuurschommeling': [1.2100000000000009]}",{40: array([1.])},-1.0
-7.55,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.03], 'Temperatuurschommeling': [1.2100000000000009]}",{40: array([1.])},-1.0
-9.57,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.03], 'Temperatuurschommeling': [1.2100000000000009]}",{40: array([1.])},-1.0
-11.58,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-7.960000000000001], 'Temperatuurschommeling': [0.7199999999999989]}",{40: array([1.])},-1.0
-13.6,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [-11.030000000000001], 'Temperatuurschommeling': [-0.03999999999999915]}",{40: array([1.])},-1.0
-15.62,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-11.030000000000001], 'Temperatuurschommeling': [-0.03999999999999915]}",{40: array([1.])},-1.0
-17.64,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.1999999999999993]}",{40: array([1.])},-1.0
-19.66,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.1999999999999993]}",{40: array([1.])},-1.0
-21.67,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.0799999999999983], 'Temperatuurschommeling': [-0.3999999999999986]}",{40: array([1.])},-1.0
-23.7,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.09], 'Cafeïne': [6.169999999999998], 'Temperatuurschommeling': [-0.8000000000000007]}",{40: array([1.])},-1.0
-25.72,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [3.09], 'Cafeïne': [6.169999999999998], 'Temperatuurschommeling': [-0.8000000000000007]}",{40: array([1.])},-1.0
-27.73,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [10.009999999999998], 'Temperatuurschommeling': [0.9600000000000009]}",{40: array([1.])},-1.0
-29.75,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [10.009999999999998], 'Temperatuurschommeling': [0.9600000000000009]}",{40: array([1.])},-1.0
-31.77,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [13.079999999999998], 'Temperatuurschommeling': [0.07000000000000028]}",{40: array([1.])},-1.0
-33.79,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.0199999999999996], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.019999999999999574]}",{40: array([1.])},-1.0
-35.8,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.0199999999999996], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.019999999999999574]}",{40: array([1.])},-1.0
-37.82,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.870000000000001], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.6000000000000014]}",{40: array([1.])},-1.0
-39.84,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.870000000000001], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.6000000000000014]}",{40: array([1.])},-1.0
-41.86,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [9.940000000000001], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.9200000000000017]}",{40: array([1.])},-1.0
-43.89,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [13.010000000000002], 'Cafeïne': [-3.0700000000000003], 'Temperatuurschommeling': [3.469999999999999]}",{40: array([1.])},-1.0
-45.9,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [13.010000000000002], 'Cafeïne': [-3.0700000000000003], 'Temperatuurschommeling': [3.469999999999999]}",{40: array([1.])},-1.0
-47.92,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [16.930000000000003], 'Cafeïne': [-6.990000000000002], 'Temperatuurschommeling': [0.4800000000000004]}",{40: array([1.])},-1.0
-49.93,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [16.930000000000003], 'Cafeïne': [-6.990000000000002], 'Temperatuurschommeling': [0.4800000000000004]}",{40: array([1.])},-1.0
-51.95,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.0599999999999987]}",{40: array([1.])},-1.0
-53.97,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.059999999999995], 'Cafeïne': [3.059999999999995], 'Temperatuurschommeling': [0.7100000000000009]}",{40: array([1.])},-1.0
-55.98,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.059999999999995], 'Cafeïne': [3.059999999999995], 'Temperatuurschommeling': [0.7100000000000009]}",{40: array([1.])},-1.0
-58.0,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.8000000000000007]}",{40: array([1.])},-1.0
-60.01,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.8000000000000007]}",{40: array([1.])},-1.0
-62.02,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [2.989999999999995], 'Cafeïne': [-2.989999999999995], 'Temperatuurschommeling': [3.5799999999999983]}",{40: array([1.])},-1.0
-64.04,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-6.07], 'Temperatuurschommeling': [-1.2600000000000016]}",{40: array([1.])},-1.0
-66.06,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-6.07], 'Temperatuurschommeling': [-1.2600000000000016]}",{40: array([1.])},-1.0
-68.07,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-3.789999999999999], 'Cafeïne': [-9.86], 'Temperatuurschommeling': [0.8900000000000006]}",{40: array([1.])},-1.0
-70.08,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-3.789999999999999], 'Cafeïne': [-9.86], 'Temperatuurschommeling': [0.8900000000000006]}",{40: array([1.])},-1.0
-72.1,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-6.939999999999991], 'Cafeïne': [-13.009999999999991], 'Temperatuurschommeling': [-1.4499999999999993]}",{40: array([1.])},-1.0
-74.12,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-9.990000000000002], 'Cafeïne': [-16.060000000000002], 'Temperatuurschommeling': [-0.620000000000001]}",{40: array([1.])},-1.0
-76.14,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-9.990000000000002], 'Cafeïne': [-16.060000000000002], 'Temperatuurschommeling': [-0.620000000000001]}",{40: array([1.])},-1.0
-78.16,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.1099999999999994]}",{40: array([1.])},-1.0
-80.18,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.1099999999999994]}",{40: array([1.])},-1.0
-82.2,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [3.519999999999996], 'Cafeïne': [-1], 'Temperatuurschommeling': [1.1600000000000001]}",{40: array([1.])},-1.0
-84.23,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-3.0799999999999983], 'Temperatuurschommeling': [1.3000000000000007]}",{40: array([1.])},-1.0
-86.25,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [45.751726006640574], 'Roken': [-1], 'Cafeïne': [-3.0799999999999983], 'Temperatuurschommeling': [1.3000000000000007]}",{40: array([1.])},-1.0
-88.26,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [45.751726006640574], 'Roken': [-3.160000000000011], 'Cafeïne': [-6.230000000000004], 'Temperatuurschommeling': [2.9899999999999984]}",{40: array([1.])},-1.0
-90.28,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [45.751726006640574], 'Roken': [-3.160000000000011], 'Cafeïne': [-6.230000000000004], 'Temperatuurschommeling': [2.9899999999999984]}",{40: array([1.])},-1.0
-92.3,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [63.03828056792848], 'Roken': [-6.930000000000007], 'Cafeïne': [-10.0], 'Temperatuurschommeling': [-1.6400000000000006]}",{40: array([1.])},-1.0
-94.32,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [63.03828056792848], 'Roken': [-10.0], 'Cafeïne': [-13.079999999999998], 'Temperatuurschommeling': [3.4299999999999997]}",{40: array([1.])},-1.0
-96.34,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [66.96975159060467], 'Roken': [-10.0], 'Cafeïne': [-13.079999999999998], 'Temperatuurschommeling': [3.4299999999999997]}",{40: array([1.])},-1.0
-98.36,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [66.96975159060467], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.9100000000000001]}",{40: array([1.])},-1.0
-100.37,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [66.96975159060467], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [1.8500000000000014]}",{40: array([1.])},-1.0
-102.4,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [8.090398090398093], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [1.8500000000000014]}",{40: array([1.])},-1.0
-104.41,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [8.090398090398093], 'Roken': [-3.0799999999999983], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.8200000000000003]}",{40: array([1.])},-1.0
-106.45,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [-3.0799999999999983], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.8200000000000003]}",{40: array([1.])},-1.0
-108.48,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [-6.5], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.460000000000001]}",{40: array([1.])},-1.0
-110.5,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [1], 'Cafeïne': [-3.5], 'Temperatuurschommeling': [-1.8299999999999983]}",{40: array([1.])},-1.0
-112.54,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [1], 'Cafeïne': [-3.5], 'Temperatuurschommeling': [-1.8299999999999983]}",{40: array([1.])},-1.0
-114.55,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [3.069999999999993], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.8900000000000006]}",{40: array([1.])},-1.0
-116.59,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [3.069999999999993], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.8900000000000006]}",{40: array([1.])},-1.0
-118.62,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [62.889586603872395], 'Roken': [6.310000000000002], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.379999999999999]}",{40: array([1.])},-1.0
-120.64,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.2399999999999984]}",{40: array([1.])},-1.0
-122.67,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.2399999999999984]}",{40: array([1.])},-1.0
-124.7,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.0900000000000034], 'Temperatuurschommeling': [0.39000000000000057]}",{40: array([1.])},-1.0
-126.73,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.049999999999997], 'Cafeïne': [6.1499999999999915], 'Temperatuurschommeling': [2.5599999999999987]}",{40: array([1.])},-1.0
-128.75,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.049999999999997], 'Cafeïne': [6.1499999999999915], 'Temperatuurschommeling': [2.5599999999999987]}",{40: array([1.])},-1.0
-130.78,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [10.0], 'Temperatuurschommeling': [1.379999999999999]}",{40: array([1.])},-1.0
-132.8,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [10.0], 'Temperatuurschommeling': [1.379999999999999]}",{40: array([1.])},-1.0
-134.82,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [13.109999999999985], 'Temperatuurschommeling': [2.379999999999999]}",{40: array([1.])},-1.0
-136.84,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [16.109999999999985], 'Temperatuurschommeling': [-0.8399999999999999]}",{40: array([1.])},-1.0
-138.88,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [16.109999999999985], 'Temperatuurschommeling': [-0.8399999999999999]}",{40: array([1.])},-1.0
-140.89,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.46999999999999886]}",{40: array([1.])},-1.0
-142.92,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.46999999999999886]}",{40: array([1.])},-1.0
-144.94,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.039999999999992], 'Cafeïne': [1], 'Temperatuurschommeling': [0.9899999999999984]}",{40: array([1.])},-1.0
-146.98,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5399999999999991]}",{40: array([1.])},-1.0
-149.01,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5399999999999991]}",{40: array([1.])},-1.0
-151.04,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.8700000000000045], 'Cafeïne': [-3.880000000000024], 'Temperatuurschommeling': [3.9899999999999984]}",{40: array([1.])},-1.0
-153.06,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.8700000000000045], 'Cafeïne': [-3.880000000000024], 'Temperatuurschommeling': [3.9899999999999984]}",{40: array([1.])},-1.0
-155.09,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.030000000000001]}",{40: array([1.])},-1.0
-157.11,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [3.0200000000000102], 'Cafeïne': [3.0200000000000102], 'Temperatuurschommeling': [3.3000000000000007]}",{40: array([1.])},-1.0
-159.14,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [3.0200000000000102], 'Cafeïne': [3.0200000000000102], 'Temperatuurschommeling': [3.3000000000000007]}",{40: array([1.])},-1.0
-161.17,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.930000000000007], 'Temperatuurschommeling': [0.35999999999999943]}",{40: array([1.])},-1.0
-163.18,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.930000000000007], 'Temperatuurschommeling': [0.35999999999999943]}",{40: array([1.])},-1.0
-165.19,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.5500000000000007]}",{40: array([1.])},-1.0
-167.22,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.48999999999999844]}",{40: array([1.])},-1.0
-169.25,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.48999999999999844]}",{40: array([1.])},-1.0
-171.26,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.730000000000018], 'Cafeïne': [3.730000000000018], 'Temperatuurschommeling': [-1.0500000000000007]}",{40: array([1.])},-1.0
-173.31,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.730000000000018], 'Cafeïne': [3.730000000000018], 'Temperatuurschommeling': [-1.0500000000000007]}",{40: array([1.])},-1.0
-175.33,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-6.939999999999998], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.719999999999999]}",{40: array([1.])},-1.0
-177.36,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.84]}",{40: array([1.])},-1.0
-179.38,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.84]}",{40: array([1.])},-1.0
-181.4,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.4899999999999807], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.629999999999999]}",{40: array([1.])},-1.0
-183.43,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.9599999999999795], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.3999999999999986]}",{40: array([1.])},-1.0
-185.45,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.9599999999999795], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.3999999999999986]}",{40: array([1.])},-1.0
-187.49,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [10.019999999999982], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.08999999999999986]}",{40: array([1.])},-1.0
-189.51,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [10.019999999999982], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.08999999999999986]}",{40: array([1.])},-1.0
-191.52,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [13.419999999999987], 'Cafeïne': [1], 'Temperatuurschommeling': [1.1600000000000001]}",{40: array([1.])},-1.0
-193.53,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.2300000000000004]}",{40: array([1.])},-1.0
-195.57,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.2300000000000004]}",{40: array([1.])},-1.0
-197.59,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.7300000000000004]}",{40: array([1.])},-1.0
-199.61,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.7300000000000004]}",{40: array([1.])},-1.0
-201.66,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.3300000000000125], 'Temperatuurschommeling': [-1.2899999999999991]}",{40: array([1.])},-1.0
-203.68,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.5999999999999943], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.14000000000000057]}",{40: array([1.])},-1.0
-205.71,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.5999999999999943], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.14000000000000057]}",{40: array([1.])},-1.0
-207.75,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.3999999999999986]}",{40: array([1.])},-1.0
-209.77,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.269999999999982], 'Temperatuurschommeling': [2.84]}",{40: array([1.])},-1.0
-211.8,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.269999999999982], 'Temperatuurschommeling': [2.84]}",{40: array([1.])},-1.0
-213.84,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.0199999999999996]}",{40: array([1.])},-1.0
-215.87,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.0199999999999996]}",{40: array([1.])},-1.0
-217.9,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.0999999999999943], 'Temperatuurschommeling': [3.2600000000000016]}",{40: array([1.])},-1.0
-219.93,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-2.9899999999999807], 'Cafeïne': [1], 'Temperatuurschommeling': [2.6400000000000006]}",{40: array([1.])},-1.0
-221.95,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-2.9899999999999807], 'Cafeïne': [1], 'Temperatuurschommeling': [2.6400000000000006]}",{40: array([1.])},-1.0
-223.97,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-6.900000000000006], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3000000000000007]}",{40: array([1.])},-1.0
-226.02,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-6.900000000000006], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3000000000000007]}",{40: array([1.])},-1.0
-228.04,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.8200000000000003]}",{40: array([1.])},-1.0
-230.05,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.079999999999984], 'Cafeïne': [3.0800000000000125], 'Temperatuurschommeling': [1.4400000000000013]}",{40: array([1.])},-1.0
-232.09,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.079999999999984], 'Cafeïne': [3.0800000000000125], 'Temperatuurschommeling': [1.4400000000000013]}",{40: array([1.])},-1.0
-234.12,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.840000000000003], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.75]}",{40: array([1.])},-1.0
-236.15,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.840000000000003], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.75]}",{40: array([1.])},-1.0
-238.17,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [10.009999999999991], 'Cafeïne': [-3.180000000000007], 'Temperatuurschommeling': [0.9100000000000001]}",{40: array([1.])},-1.0
-240.19,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.370000000000001]}",{40: array([1.])},-1.0
-242.21,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.370000000000001]}",{40: array([1.])},-1.0
-244.24,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.75]}",{40: array([1.])},-1.0
-246.26,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.75]}",{40: array([1.])},-1.0
-248.28,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.410000000000025], 'Cafeïne': [1], 'Temperatuurschommeling': [0.25]}",{40: array([1.])},-1.0
-250.3,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [1.8500000000000014]}",{40: array([1.])},-1.0
-252.32,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [1.8500000000000014]}",{40: array([1.])},-1.0
-254.36,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-3.3600000000000136], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3000000000000007]}",{40: array([1.])},-1.0
-256.39,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.6299999999999955], 'Temperatuurschommeling': [-1.6600000000000001]}",{40: array([1.])},-1.0
-258.42,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.6299999999999955], 'Temperatuurschommeling': [-1.6600000000000001]}",{40: array([1.])},-1.0
-260.45,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.639999999999986], 'Temperatuurschommeling': [3.870000000000001]}",{40: array([1.])},-1.0
-262.48,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.639999999999986], 'Temperatuurschommeling': [3.870000000000001]}",{40: array([1.])},-1.0
-264.5,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [9.829999999999984], 'Temperatuurschommeling': [-0.010000000000001563]}",{40: array([1.])},-1.0
-266.52,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [13.569999999999993], 'Temperatuurschommeling': [-0.7600000000000016]}",{40: array([1.])},-1.0
-268.53,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [13.569999999999993], 'Temperatuurschommeling': [-0.7600000000000016]}",{40: array([1.])},-1.0
-270.55,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [16.560000000000002], 'Temperatuurschommeling': [-0.16000000000000014]}",{40: array([1.])},-1.0
-272.57,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [19.639999999999986], 'Temperatuurschommeling': [3.91]}",{40: array([1.])},-1.0
-274.6,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [19.639999999999986], 'Temperatuurschommeling': [3.91]}",{40: array([1.])},-1.0
-276.62,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.0100000000000016]}",{40: array([1.])},-1.0
-278.64,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.0100000000000016]}",{40: array([1.])},-1.0
-280.66,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.269999999999982], 'Temperatuurschommeling': [-0.5300000000000011]}",{40: array([1.])},-1.0
-282.67,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.339999999999975], 'Temperatuurschommeling': [-0.7899999999999991]}",{40: array([1.])},-1.0
-284.69,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.339999999999975], 'Temperatuurschommeling': [-0.7899999999999991]}",{40: array([1.])},-1.0
-286.72,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.4499999999999886], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.5500000000000007]}",{40: array([1.])},-1.0
-288.73,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [3.4499999999999886], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.5500000000000007]}",{40: array([1.])},-1.0
-290.77,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [6.930000000000007], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.17999999999999972]}",{40: array([1.])},-1.0
-292.79,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [10.0], 'Cafeïne': [-3.069999999999993], 'Temperatuurschommeling': [2.9400000000000013]}",{40: array([1.])},-1.0
-294.82,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [7.222222222222223], 'Roken': [10.0], 'Cafeïne': [-3.069999999999993], 'Temperatuurschommeling': [2.9400000000000013]}",{40: array([1.])},-1.0
-296.82,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [13.360000000000014], 'Cafeïne': [-6.439999999999998], 'Temperatuurschommeling': [-0.3500000000000014]}",{40: array([1.])},-1.0
-298.85,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [13.360000000000014], 'Cafeïne': [-6.439999999999998], 'Temperatuurschommeling': [-0.3500000000000014]}",{40: array([1.])},-1.0
-300.88,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [16.920000000000016], 'Cafeïne': [-10.0], 'Temperatuurschommeling': [0.21000000000000085]}",{40: array([1.])},-1.0
-302.92,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.5700000000000003]}",{40: array([1.])},-1.0
-304.93,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.5700000000000003]}",{40: array([1.])},-1.0
-306.95,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.1100000000000136], 'Temperatuurschommeling': [2.1799999999999997]}",{40: array([1.])},-1.0
-308.98,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.1100000000000136], 'Temperatuurschommeling': [2.1799999999999997]}",{40: array([1.])},-1.0
-311.0,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.46999999999999886]}",{40: array([1.])},-1.0
-313.03,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0100000000000016]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-315.04,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0100000000000016]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-317.07,32.532251652387366,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [3.829999999999984], 'Temperatuurschommeling': [3.3599999999999994]}","{25: array([0.01276667]), 34: array([0.22933333]), 39: array([0.77020202])}",32.532251652387366
-319.08,32.532251652387366,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [3.829999999999984], 'Temperatuurschommeling': [3.3599999999999994]}","{25: array([0.01276667]), 34: array([0.22933333]), 39: array([0.77020202])}",32.532251652387366
-321.11,14.023186502458762,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [6.889999999999986], 'Temperatuurschommeling': [1.4499999999999993]}","{25: array([0.02296667]), 39: array([0.77020202])}",14.023186502458762
-323.12,15.57711182698974,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [9.95999999999998], 'Temperatuurschommeling': [-0.46000000000000085]}","{25: array([0.0332]), 39: array([0.77020202])}",15.57711182698974
-325.14,15.57711182698974,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [9.95999999999998], 'Temperatuurschommeling': [-0.46000000000000085]}","{25: array([0.0332]), 39: array([0.77020202])}",15.57711182698974
-327.16,17.24594689908198,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [13.519999999999982], 'Temperatuurschommeling': [-0.5799999999999983]}","{25: array([0.04506667]), 39: array([0.77020202])}",17.24594689908198
-329.18,17.24594689908198,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [13.519999999999982], 'Temperatuurschommeling': [-0.5799999999999983]}","{25: array([0.04506667]), 39: array([0.77020202])}",17.24594689908198
-331.19,10.08175008123673,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.6900000000000013]}",{39: array([0.77020202])},10.08175008123673
-333.21,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.4200000000000017]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-335.23,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.4200000000000017]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-337.24,10.08175008123673,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.5899999999999999]}",{39: array([0.77020202])},10.08175008123673
-339.26,10.08175008123673,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.5899999999999999]}",{39: array([0.77020202])},10.08175008123673
-341.27,35.951061235667325,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-3.4600000000000364], 'Cafeïne': [1], 'Temperatuurschommeling': [3.66]}","{25: array([0.00333333]), 34: array([0.30933333]), 39: array([0.77020202])}",35.951061235667325
-343.3,19.00240141815521,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-6.5400000000000205], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.719999999999999]}","{34: array([0.05866667]), 39: array([0.77020202])}",19.00240141815521
-345.32,19.00240141815521,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-6.5400000000000205], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.719999999999999]}","{34: array([0.05866667]), 39: array([0.77020202])}",19.00240141815521
-347.35,10.08175008123673,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.3000000000000114], 'Temperatuurschommeling': [0.9800000000000004]}",{39: array([0.77020202])},10.08175008123673
-349.37,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.03999999999999915]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-351.38,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.03999999999999915]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-353.41,43.087562405035825,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.9100000000000001]}","{18: array([0.4]), 33: array([0.27333333]), 38: array([0.4]), 39: array([0.25])}",43.087562405035825
-355.42,43.087562405035825,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.9100000000000001]}","{18: array([0.4]), 33: array([0.27333333]), 38: array([0.4]), 39: array([0.25])}",43.087562405035825
-357.43,10.747816115451974,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [3.1399999999999864], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0]}","{25: array([0.00333333]), 39: array([0.75619658])}",10.747816115451974
-359.46,10.128626886834235,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [6.920000000000016], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5599999999999987]}",{39: array([0.75619658])},10.128626886834235
-361.48,10.128626886834235,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [6.920000000000016], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5599999999999987]}",{39: array([0.75619658])},10.128626886834235
-363.51,44.08343023255819,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [10.0], 'Cafeïne': [-3.089999999999975], 'Temperatuurschommeling': [-0.6799999999999997]}","{18: array([0.4]), 33: array([0.12]), 38: array([0.4]), 39: array([0.25])}",44.08343023255819
-365.52,27.402371213609474,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.2600000000000016]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4]), 38: array([0.4]), 39: array([0.25])}",27.402371213609474
-367.54,27.402371213609474,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.2600000000000016]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4]), 38: array([0.4]), 39: array([0.25])}",27.402371213609474
-369.57,42.17098969473074,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.620000000000001]}","{18: array([0.4]), 30: array([0.032]), 32: array([0.4]), 34: array([0.032]), 38: array([0.4]), 39: array([0.25])}",42.17098969473074
-371.6,42.17098969473074,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.620000000000001]}","{18: array([0.4]), 30: array([0.032]), 32: array([0.4]), 34: array([0.032]), 38: array([0.4]), 39: array([0.25])}",42.17098969473074
-373.61,12.7313811892101,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 38: array([0.4]), 39: array([0.25])}",12.7313811892101
-375.63,12.7313811892101,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 38: array([0.4]), 39: array([0.25])}",12.7313811892101
-377.66,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.0399999999999991]}",{40: array([1.])},-1.0
-379.67,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.870000000000001]}",{40: array([1.])},-1.0
-381.7,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.870000000000001]}",{40: array([1.])},-1.0
-383.72,44.65545267489709,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.0]}","{18: array([0.4]), 38: array([0.4]), 39: array([0.25])}",44.65545267489709
-385.73,44.65545267489709,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.0]}","{18: array([0.4]), 38: array([0.4]), 39: array([0.25])}",44.65545267489709
-387.75,43.55982377846437,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [3.8500000000000227], 'Cafeïne': [-3.8500000000000227], 'Temperatuurschommeling': [3.59]}","{18: array([0.4]), 30: array([0.29066667]), 32: array([0.205]), 34: array([0.25]), 38: array([0.4]), 39: array([0.25])}",43.55982377846437
-389.77,30.780461165892962,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.7300000000000004]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 30: array([0.06133333]), 32: array([0.4]), 34: array([0.06133333]), 38: array([0.4]), 39: array([0.25])}",30.780461165892962
-391.79,30.780461165892962,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.7300000000000004]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 30: array([0.06133333]), 32: array([0.4]), 34: array([0.06133333]), 38: array([0.4]), 39: array([0.25])}",30.780461165892962
-393.81,44.51315255955393,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.079999999999984], 'Temperatuurschommeling': [3.9299999999999997]}","{18: array([0.4]), 23: array([0.01026667]), 24: array([0.00171111]), 25: array([0.01026667]), 30: array([0.38133333]), 32: array([0.035]), 34: array([0.25]), 38: array([0.4]), 39: array([0.25])}",44.51315255955393
-395.83,44.51315255955393,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.079999999999984], 'Temperatuurschommeling': [3.9299999999999997]}","{18: array([0.4]), 23: array([0.01026667]), 24: array([0.00171111]), 25: array([0.01026667]), 30: array([0.38133333]), 32: array([0.035]), 34: array([0.25]), 38: array([0.4]), 39: array([0.25])}",44.51315255955393
-397.85,32.10267950107813,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [3.4599999999999795], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3200000000000003]}","{34: array([0.21866667]), 39: array([0.75619658])}",32.10267950107813
-399.87,10.747816115451974,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [6.920000000000016], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.9699999999999989]}","{25: array([0.00333333]), 39: array([0.75619658])}",10.747816115451974
-401.89,10.747816115451974,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [6.920000000000016], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.9699999999999989]}","{25: array([0.00333333]), 39: array([0.75619658])}",10.747816115451974
-403.92,42.17098969473065,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.6400000000000006]}","{18: array([0.4]), 33: array([0.4]), 38: array([0.4]), 39: array([0.25])}",42.17098969473065
-405.95,42.859024364462734,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [13.149999999999977], 'Cafeïne': [-3.1399999999999864], 'Temperatuurschommeling': [3.3900000000000006]}","{18: array([0.4]), 30: array([0.23733333]), 32: array([0.305]), 34: array([0.23733333]), 38: array([0.4]), 39: array([0.25])}",42.859024364462734
-407.97,42.85902436446278,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [7.222222222222223], 'Roken': [13.149999999999977], 'Cafeïne': [-3.1399999999999864], 'Temperatuurschommeling': [3.3900000000000006]}","{18: array([0.4]), 30: array([0.23733333]), 32: array([0.305]), 34: array([0.23733333]), 38: array([0.4]), 39: array([0.25])}",42.85902436446278
-410.01,42.17098969473072,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [7.222222222222223], 'Roken': [16.920000000000016], 'Cafeïne': [-6.920000000000016], 'Temperatuurschommeling': [-1.2899999999999991]}","{18: array([0.4]), 33: array([0.4]), 38: array([0.4]), 39: array([0.25])}",42.17098969473072
-412.04,42.17098969473068,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [7.222222222222223], 'Roken': [16.920000000000016], 'Cafeïne': [-6.920000000000016], 'Temperatuurschommeling': [-1.2899999999999991]}","{18: array([0.4]), 33: array([0.4]), 38: array([0.4]), 39: array([0.25])}",42.17098969473068
-414.09,42.17098969473068,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [7.222222222222223], 'Roken': [20.00999999999999], 'Cafeïne': [1], 'Temperatuurschommeling': [1.5700000000000003]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4]), 38: array([0.4]), 39: array([0.25])}",42.17098969473068
-416.13,44.64842357002002,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [7.222222222222223], 'Roken': [23.100000000000023], 'Cafeïne': [3.090000000000032], 'Temperatuurschommeling': [0.129999999999999]}","{18: array([0.4]), 23: array([0.0103]), 24: array([0.00171667]), 25: array([0.0103]), 38: array([0.4]), 39: array([0.25])}",44.64842357002002
-418.15,11.860826372893976,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [7.222222222222223], 'Roken': [23.100000000000023], 'Cafeïne': [3.090000000000032], 'Temperatuurschommeling': [0.129999999999999]}","{25: array([0.0103]), 39: array([0.78888889])}",11.860826372893976
-420.17,13.952124864226077,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [6.920000000000016], 'Temperatuurschommeling': [-1.8000000000000007]}","{25: array([0.02306667]), 39: array([0.78888889])}",13.952124864226077
-422.2,13.952124864226077,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.920000000000016], 'Temperatuurschommeling': [-1.8000000000000007]}","{25: array([0.02306667]), 39: array([0.78888889])}",13.952124864226077
-424.23,10.022392116887527,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.5]}",{39: array([0.78888889])},10.022392116887527
-426.24,14.097557918795419,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-2.9599999999999795], 'Temperatuurschommeling': [2.59]}","{34: array([0.024]), 39: array([0.78888889])}",14.097557918795419
-428.27,14.255393653759636,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-2.9599999999999795], 'Temperatuurschommeling': [2.59]}","{34: array([0.024]), 39: array([0.75619658])}",14.255393653759636
-430.3,27.57399902047467,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.8700000000000045], 'Temperatuurschommeling': [3.0500000000000007]}","{34: array([0.14666667]), 39: array([0.75619658])}",27.57399902047467
-432.33,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-434.34,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-436.38,10.08175008123673,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-3.069999999999993], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5199999999999996]}",{39: array([0.77020202])},10.08175008123673
-438.4,10.08175008123673,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-3.069999999999993], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5199999999999996]}",{39: array([0.77020202])},10.08175008123673
-440.42,10.697177159591861,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-6.8700000000000045], 'Cafeïne': [1], 'Temperatuurschommeling': [0.9600000000000009]}","{25: array([0.00333333]), 39: array([0.77020202])}",10.697177159591861
-442.44,11.956667992486395,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.1299999999999955], 'Temperatuurschommeling': [-1.0899999999999999]}","{25: array([0.01043333]), 39: array([0.77020202])}",11.956667992486395
-444.47,11.956667992486395,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.1299999999999955], 'Temperatuurschommeling': [-1.0899999999999999]}","{25: array([0.01043333]), 39: array([0.77020202])}",11.956667992486395
-446.48,13.674035144566103,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [3.0600000000000023], 'Cafeïne': [6.230000000000018], 'Temperatuurschommeling': [1.6999999999999993]}","{25: array([0.02076667]), 39: array([0.77020202])}",13.674035144566103
-448.51,13.589560328858203,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [3.0600000000000023], 'Cafeïne': [6.230000000000018], 'Temperatuurschommeling': [1.6999999999999993]}","{25: array([0.02076667]), 39: array([0.78888889])}",13.589560328858203
-450.54,15.28104455394951,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [9.550000000000011], 'Temperatuurschommeling': [2.4400000000000013]}","{25: array([0.03183333]), 39: array([0.78888889])}",15.28104455394951
-452.56,17.16258687515058,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [13.149999999999977], 'Temperatuurschommeling': [2.219999999999999]}","{25: array([0.04383333]), 39: array([0.75619658])}",17.16258687515058
-454.57,17.16258687515058,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [13.149999999999977], 'Temperatuurschommeling': [2.219999999999999]}","{25: array([0.04383333]), 39: array([0.75619658])}",17.16258687515058
-456.6,35.3719622196418,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [3.0500000000000114], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.59]}","{34: array([0.29066667]), 39: array([0.75619658])}",35.3719622196418
-458.63,10.128626886834235,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-3.1100000000000136], 'Temperatuurschommeling': [1.6099999999999994]}",{39: array([0.75619658])},10.128626886834235
-460.65,10.128626886834235,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-3.1100000000000136], 'Temperatuurschommeling': [1.6099999999999994]}",{39: array([0.75619658])},10.128626886834235
-462.69,9.97265288544358,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.949999999999989], 'Temperatuurschommeling': [1.5700000000000003]}",{39: array([0.80555556])},9.97265288544358
-464.7,9.97265288544358,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.949999999999989], 'Temperatuurschommeling': [1.5700000000000003]}",{39: array([0.80555556])},9.97265288544358
-466.71,9.97265288544358,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-10.009999999999991], 'Temperatuurschommeling': [2.4200000000000017]}",{39: array([0.80555556])},9.97265288544358
-468.73,10.747816115451974,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-3.079999999999984], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3500000000000014]}","{25: array([0.00333333]), 39: array([0.75619658])}",10.747816115451974
-470.76,10.747816115451974,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-3.079999999999984], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3500000000000014]}","{25: array([0.00333333]), 39: array([0.75619658])}",10.747816115451974
-472.79,12.427699077086976,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.8500000000000227], 'Temperatuurschommeling': [-0.3200000000000003]}","{25: array([0.01283333]), 39: array([0.75619658])}",12.427699077086976
-474.82,12.427699077086976,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.8500000000000227], 'Temperatuurschommeling': [-0.3200000000000003]}","{25: array([0.01283333]), 39: array([0.75619658])}",12.427699077086976
-476.83,20.980398697214525,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.850000000000023], 'Temperatuurschommeling': [2.780000000000001]}","{25: array([0.02283333]), 34: array([0.07466667]), 39: array([0.75619658])}",20.980398697214525
-478.87,33.55667483791241,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.4299999999999997]}","{34: array([0.248]), 39: array([0.75619658])}",33.55667483791241
-480.88,33.55667483791241,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.4299999999999997]}","{34: array([0.248]), 39: array([0.75619658])}",33.55667483791241
-482.9,17.442131541162535,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.7900000000000205], 'Cafeïne': [-3.8000000000000114], 'Temperatuurschommeling': [2.6799999999999997]}","{34: array([0.048]), 39: array([0.80555556])}",17.442131541162535
-484.92,17.442131541162535,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.7900000000000205], 'Cafeïne': [-3.8000000000000114], 'Temperatuurschommeling': [2.6799999999999997]}","{34: array([0.048]), 39: array([0.80555556])}",17.442131541162535
-486.94,28.155372292720397,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [6.930000000000007], 'Cafeïne': [1], 'Temperatuurschommeling': [3.1000000000000014]}","{25: array([0.00333333]), 34: array([0.16]), 39: array([0.80555556])}",28.155372292720397
-488.97,27.9688734231978,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.09]}","{34: array([0.15733333]), 39: array([0.80555556])}",27.9688734231978
-490.99,27.9688734231978,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.09]}","{34: array([0.15733333]), 39: array([0.80555556])}",27.9688734231978
-493.01,9.933605664488015,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.759999999999991], 'Temperatuurschommeling': [-0.5100000000000016]}",{39: array([0.81944444])},9.933605664488015
-495.04,9.933605664488015,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.759999999999991], 'Temperatuurschommeling': [-0.5100000000000016]}",{39: array([0.81944444])},9.933605664488015
-497.08,25.210594765956333,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.920000000000016], 'Temperatuurschommeling': [2.960000000000001]}","{34: array([0.12266667]), 39: array([0.81944444])}",25.210594765956333
-499.11,10.6332305063194,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [3.069999999999993], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3099999999999987]}","{25: array([0.00333333]), 39: array([0.78888889])}",10.6332305063194
-501.14,10.6332305063194,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [3.069999999999993], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3099999999999987]}","{25: array([0.00333333]), 39: array([0.78888889])}",10.6332305063194
-503.14,9.933605664488015,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [6.899999999999977], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.05999999999999872]}",{39: array([0.81944444])},9.933605664488015
-505.17,9.933605664488015,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [6.899999999999977], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.05999999999999872]}",{39: array([0.81944444])},9.933605664488015
-507.2,10.5379447806874,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.0500000000000007]}","{25: array([0.00333333]), 39: array([0.81944444])}",10.5379447806874
-509.22,10.022392116887527,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-3.0500000000000114], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.039999999999999]}",{39: array([0.78888889])},10.022392116887527
-511.25,10.022392116887527,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-3.0500000000000114], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.039999999999999]}",{39: array([0.78888889])},10.022392116887527
-513.27,21.443752661942167,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.8099999999999987]}","{25: array([0.00333333]), 34: array([0.08266667]), 39: array([0.81944444])}",21.443752661942167
-515.31,21.443752661942167,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.8099999999999987]}","{25: array([0.00333333]), 34: array([0.08266667]), 39: array([0.81944444])}",21.443752661942167
-517.33,9.933605664488015,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [7.222222222222223], 'Roken': [3.1100000000000136], 'Cafeïne': [-1], 'Temperatuurschommeling': [-2.0]}",{39: array([0.81944444])},9.933605664488015
-519.34,9.97265288544358,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [6.17999999999995], 'Cafeïne': [-3.0699999999999363], 'Temperatuurschommeling': [1.879999999999999]}",{39: array([0.80555556])},9.97265288544358
-521.36,9.97265288544358,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [6.17999999999995], 'Cafeïne': [-3.0699999999999363], 'Temperatuurschommeling': [1.879999999999999]}",{39: array([0.80555556])},9.97265288544358
-523.38,10.5379447806874,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [9.839999999999918], 'Cafeïne': [1], 'Temperatuurschommeling': [2.039999999999999]}","{25: array([0.00333333]), 39: array([0.81944444])}",10.5379447806874
-525.41,11.854707056210074,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [13.110000000000014], 'Cafeïne': [3.2700000000000955], 'Temperatuurschommeling': [1.4600000000000009]}","{25: array([0.0109]), 39: array([0.81944444])}",11.854707056210074
-527.42,11.854707056210074,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [13.110000000000014], 'Cafeïne': [3.2700000000000955], 'Temperatuurschommeling': [1.4600000000000009]}","{25: array([0.0109]), 39: array([0.81944444])}",11.854707056210074
-529.46,16.663810519058128,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.340000000000032], 'Temperatuurschommeling': [2.66]}","{25: array([0.02113333]), 34: array([0.04266667]), 39: array([0.81944444])}",16.663810519058128
+3.55,0,0,0,0
+5.59,[0],0,0,[0]
+7.59,[0],0,0,[0]
+9.61,[0],0,0,[0]
+11.63,[0],0,0,[0]
+13.63,[0],0,0,[0]
+15.64,[0],0,0,[0]
+17.65,[0],0,0,[0]
+19.66,[0],0,0,[0]
+21.67,[0],0,0,[0]
+23.7,[0],0,0,[0]
+25.74,[0],0,0,[0]
+27.75,[0],0,0,[0]
+29.79,[0],0,0,[0]
+31.8,[0],0,0,[0]
+33.82,[0],0,0,[0]
+35.85,[0],0,0,[0]
+37.87,[0],0,0,[0]
+39.91,[0],0,0,[0]
+41.93,[0],0,0,[0]
+43.97,[0],0,0,[0]
+45.99,[0],0,0,[0]
+48.01,[0],0,0,[0]
+50.04,[0],0,0,[0]
+52.06,[0],0,0,[0]
+54.08,[0],0,0,[0]
+56.12,[0],0,0,[0]
+58.16,[0],0,0,[0]
+60.19,[0],0,0,[0]
+62.22,[0],0,0,[0]
+64.25,[0],0,0,[0]
+66.26,[0],0,0,[0]
+68.28,[0],0,0,[0]
+70.31,[0],0,0,[0]
+72.33,[0],0,0,[0]
+74.37,[0],0,0,[0]
+76.4,[0],0,0,[0]
+78.44,[0],0,0,[0]
+80.45,[0],0,0,[0]
+82.47,[0],0,0,[0]
+84.51,[0],0,0,[0]
+86.54,[0],0,0,[0]
+88.56,[0],0,0,[0]
+90.6,[0],0,0,[0]
+92.61,[0],0,0,[0]
+94.65,[0],0,0,[0]
+96.68,[0],0,0,[0]
+98.7,[0],0,0,[0]
+100.73,[0],0,0,[0]
+102.75,[0],0,0,[0]
+104.78,[0],0,0,[0]
+106.8,[0],0,0,[0]
+108.83,[0],0,0,[0]
+110.85,[0],0,0,[0]
+112.87,[0],0,0,[0]
+114.9,[0],0,0,[0]
+116.93,[0],0,0,[0]
+118.95,[0],0,0,[0]
+120.96,[0],0,0,[0]
+122.98,[0],0,0,[0]
+125.01,[0],0,0,[0]
+127.03,[0],0,0,[0]
+129.06,[0],0,0,[0]
+131.07,[0],0,0,[0]
+133.09,[0],0,0,[0]
+135.12,[0],0,0,[0]
+137.14,[0],0,0,[0]
+139.15,[0],0,0,[0]
+141.17,[0],0,0,[0]
+143.2,[0],0,0,[0]
+145.23,[0],0,0,[0]
+147.26,[0],0,0,[0]
+149.28,[0],0,0,[0]
+151.3,[0],0,0,[0]
+153.32,[0],0,0,[0]
+155.32,[0],0,0,[0]
+157.35,[0],0,0,[0]
+159.36,[0],0,0,[0]
+161.39,[0],0,0,[0]
+163.41,[0],0,0,[0]
+165.43,[0],0,0,[0]
+167.46,[0],0,0,[0]
+169.48,[0],0,0,[0]
+171.52,[0],0,0,[0]
+173.53,[0],0,0,[0]
+175.55,[0],0,0,[0]
+177.6,[0],0,0,[0]
+179.62,[0],0,0,[0]
+181.64,[0],0,0,[0]
+183.65,[0],0,0,[0]
+185.67,[0],0,0,[0]
+187.71,[0],0,0,[0]
+189.72,[0],0,0,[0]
+191.77,[0],0,0,[0]
+193.78,[0],0,0,[0]
+195.8,[0],0,0,[0]
+197.83,[0],0,0,[0]
+199.85,[0],0,0,[0]
+201.89,[0],0,0,[0]
+203.92,[0],0,0,[0]
+205.95,[0],0,0,[0]
+207.98,[0],0,0,[0]
+210.01,[0],0,0,[0]
+212.03,[0],0,0,[0]
+214.04,[0],0,0,[0]
+216.07,[0],0,0,[0]
+218.09,[0],0,0,[0]
+220.13,[0],0,0,[0]
+222.16,[0],0,0,[0]
+224.18,[0],0,0,[0]
+226.21,[0],0,0,[0]
+228.22,[0],0,0,[0]
+230.24,[0],0,0,[0]
+232.27,[0],0,0,[0]
+234.29,[0],0,0,[0]
+236.32,[0],0,0,[0]
+238.36,[0],0,0,[0]
+240.37,[0],0,0,[0]
+242.4,[0],0,0,[0]
+244.41,[0],0,0,[0]
+246.45,[0],0,0,[0]
+248.48,[0],0,0,[0]
+250.51,[0],0,0,[0]
+252.54,[0],0,0,[0]
+254.58,[0],0,0,[0]
+256.59,[0],0,0,[0]
+258.61,[0],0,0,[0]
+260.64,[0],0,0,[0]
+262.66,[0],0,0,[0]
+264.69,[0],0,0,[0]
+266.72,[0],0,0,[0]
+268.74,[0],0,0,[0]
+270.76,[0],0,0,[0]
+272.78,[0],0,0,[0]
+274.81,[0],0,0,[0]
+276.81,[0],0,0,[0]
+278.84,[0],0,0,[0]
+280.88,[0],0,0,[0]
+282.9,[0],0,0,[0]
+284.93,[0],0,0,[0]
+286.95,[0],0,0,[0]
+288.97,[0],0,0,[0]
+290.99,[0],0,0,[0]
+293.0,[0],0,0,[0]
+295.02,[0],0,0,[0]
+297.05,[0],0,0,[0]
+299.06,[0],0,0,[0]
+301.08,[0],0,0,[0]
+303.1,[0],0,0,[0]
+305.11,[0],0,0,[0]
+307.15,64.99999999999997,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.069999999999993], 'Temperatuurschommeling': [2.1799999999999997]}",{25: array([0.01023333])},64.99999999999997
+309.18,[91.55555555555556],0,0,[91.55555555555556]
+311.19,[91.55555555555556],0,0,[91.55555555555556]
+313.21,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0100000000000016]}",{25: array([0.00333333])},65.00000000000007
+315.23,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0100000000000016]}",{25: array([0.00333333])},65.00000000000007
+317.25,64.99999999999999,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.8799999999999955], 'Temperatuurschommeling': [3.3599999999999994]}","{25: array([0.01293333]), 34: array([0.22933333])}",64.99999999999999
+319.27,65.00000000000001,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [6.939999999999998], 'Temperatuurschommeling': [1.4499999999999993]}",{25: array([0.02313333])},65.00000000000001
+321.29,65.00000000000001,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [6.939999999999998], 'Temperatuurschommeling': [1.4499999999999993]}",{25: array([0.02313333])},65.00000000000001
+323.3,64.99999999999991,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [10.0], 'Temperatuurschommeling': [-0.46000000000000085]}",{25: array([0.03333333])},64.99999999999991
+325.32,64.99999999999991,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [10.0], 'Temperatuurschommeling': [-0.46000000000000085]}",{25: array([0.03333333])},64.99999999999991
+327.33,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [13.560000000000002], 'Temperatuurschommeling': [-0.5799999999999983]}",{25: array([0.0452])},65.00000000000007
+329.33,[90.80808080808082],0,0,[90.80808080808082]
+331.35,[90.80808080808082],0,0,[90.80808080808082]
+333.38,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.4200000000000017]}",{25: array([0.00333333])},65.00000000000007
+335.4,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.4200000000000017]}",{25: array([0.00333333])},65.00000000000007
+337.43,[90.80808080808082],0,0,[90.80808080808082]
+339.45,65.00000000000001,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-3.480000000000018], 'Cafeïne': [1], 'Temperatuurschommeling': [3.66]}","{25: array([0.00333333]), 34: array([0.30933333])}",65.00000000000001
+341.48,65.00000000000001,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-3.480000000000018], 'Cafeïne': [1], 'Temperatuurschommeling': [3.66]}","{25: array([0.00333333]), 34: array([0.30933333])}",65.00000000000001
+343.49,64.99999999999996,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-6.550000000000011], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.719999999999999]}",{34: array([0.05866667])},64.99999999999996
+345.51,[90.80808080808082],0,0,[90.80808080808082]
+347.52,51.499999999999936,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.3000000000000114], 'Temperatuurschommeling': [0.9800000000000004]}","{18: array([0.4]), 32: array([0.32])}",51.499999999999936
+349.55,45.44623324700014,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.03999999999999915]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333])}",45.44623324700014
+351.57,45.44623324700014,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.03999999999999915]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333])}",45.44623324700014
+353.59,52.60330668094919,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.9100000000000001]}","{18: array([0.4]), 33: array([0.27333333])}",52.60330668094919
+355.62,51.14909394874628,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [3.1499999999999773], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 33: array([0.33333333])}",51.14909394874628
+357.63,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [3.1499999999999773], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.0]}",{25: array([0.00333333])},65.00000000000007
+359.65,[90.24786324786325],0,0,[90.24786324786325]
+361.67,[90.24786324786325],0,0,[90.24786324786325]
+363.68,57.92857142857145,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [7.222222222222223], 'Roken': [9.990000000000009], 'Cafeïne': [-3.0500000000000114], 'Temperatuurschommeling': [-0.6799999999999997]}","{18: array([0.4]), 33: array([0.12])}",57.92857142857145
+365.7,35.178082859523485,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.2600000000000016]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",35.178082859523485
+367.71,35.17808285952344,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.2600000000000016]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",35.17808285952344
+369.73,49.413957269392256,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.620000000000001]}","{18: array([0.4]), 30: array([0.032]), 32: array([0.4]), 34: array([0.032])}",49.413957269392256
+371.75,49.413957269392256,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.620000000000001]}","{18: array([0.4]), 30: array([0.032]), 32: array([0.4]), 34: array([0.032])}",49.413957269392256
+373.77,45.44623324700014,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333])}",45.44623324700014
+375.8,45.44623324700014,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333])}",45.44623324700014
+377.83,50.69402985074618,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.0399999999999991]}","{18: array([0.4]), 33: array([0.36])}",50.69402985074618
+379.85,35.17808285952344,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.870000000000001]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",35.17808285952344
+381.88,35.17808285952344,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.870000000000001]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",35.17808285952344
+383.9,64.99999999999999,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.0]}",{18: array([0.4])},64.99999999999999
+385.93,64.99999999999999,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [0.0]}",{18: array([0.4])},64.99999999999999
+387.96,46.366920199865355,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [3.8500000000000227], 'Cafeïne': [-3.8500000000000227], 'Temperatuurschommeling': [3.59]}","{18: array([0.4]), 30: array([0.29066667]), 32: array([0.205]), 34: array([0.25])}",46.366920199865355
+389.99,37.72099057264769,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.7300000000000004]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 30: array([0.06133333]), 32: array([0.4]), 34: array([0.06133333])}",37.72099057264769
+392.01,37.72099057264769,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.7300000000000004]}","{23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 30: array([0.06133333]), 32: array([0.4]), 34: array([0.06133333])}",37.72099057264769
+394.05,44.99784683598801,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.0500000000000114], 'Temperatuurschommeling': [3.9299999999999997]}","{18: array([0.4]), 23: array([0.01016667]), 24: array([0.00169444]), 25: array([0.01016667]), 30: array([0.38133333]), 32: array([0.035]), 34: array([0.25])}",44.99784683598801
+396.08,46.475640811836946,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [7.222222222222223], 'Roken': [3.490000000000009], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3200000000000003]}","{18: array([0.4]), 30: array([0.21866667]), 32: array([0.34]), 34: array([0.21866667])}",46.475640811836946
+398.12,46.475640811837025,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [3.490000000000009], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3200000000000003]}","{18: array([0.4]), 30: array([0.21866667]), 32: array([0.34]), 34: array([0.21866667])}",46.475640811837025
+400.15,49.938150337244515,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [6.9599999999999795], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.9699999999999989]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 33: array([0.4])}",49.938150337244515
+402.19,50.00000000000002,"{'fysiologische_stressreactie': [70.00000000000003], 'BewegingSport': [0], 'Roken': [10.009999999999991], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.6400000000000006]}","{18: array([0.4]), 33: array([0.4])}",50.00000000000002
+404.22,49.999999999999915,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [10.009999999999991], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.6400000000000006]}","{18: array([0.4]), 33: array([0.4])}",49.999999999999915
+406.26,46.55297306044448,"{'fysiologische_stressreactie': [70.00000000000006], 'BewegingSport': [0], 'Roken': [13.139999999999986], 'Cafeïne': [-3.1299999999999955], 'Temperatuurschommeling': [3.3900000000000006]}","{18: array([0.4]), 30: array([0.23733333]), 32: array([0.305]), 34: array([0.23733333])}",46.55297306044448
+408.3,46.552973060444444,"{'fysiologische_stressreactie': [70.00000000000007], 'BewegingSport': [7.222222222222223], 'Roken': [13.139999999999986], 'Cafeïne': [-3.1299999999999955], 'Temperatuurschommeling': [3.3900000000000006]}","{18: array([0.4]), 30: array([0.23733333]), 32: array([0.305]), 34: array([0.23733333])}",46.552973060444444
+410.34,49.99999999999995,"{'fysiologische_stressreactie': [70.00000000000007], 'BewegingSport': [7.222222222222223], 'Roken': [16.94999999999999], 'Cafeïne': [-6.939999999999998], 'Temperatuurschommeling': [-1.2899999999999991]}","{18: array([0.4]), 33: array([0.4])}",49.99999999999995
+412.37,49.93815033724447,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [7.222222222222223], 'Roken': [20.060000000000002], 'Cafeïne': [1], 'Temperatuurschommeling': [1.5700000000000003]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",49.93815033724447
+414.41,49.93815033724447,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [7.222222222222223], 'Roken': [20.060000000000002], 'Cafeïne': [1], 'Temperatuurschommeling': [1.5700000000000003]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",49.93815033724447
+416.43,64.00568214364398,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [7.222222222222223], 'Roken': [23.079999999999984], 'Cafeïne': [3.019999999999982], 'Temperatuurschommeling': [0.129999999999999]}","{18: array([0.4]), 23: array([0.01006667]), 24: array([0.00167778]), 25: array([0.01006667])}",64.00568214364398
+418.47,64.00568214364405,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [23.079999999999984], 'Cafeïne': [3.019999999999982], 'Temperatuurschommeling': [0.129999999999999]}","{18: array([0.4]), 23: array([0.01006667]), 24: array([0.00167778]), 25: array([0.01006667])}",64.00568214364405
+420.5,36.146990640943926,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [6.8700000000000045], 'Temperatuurschommeling': [-1.8000000000000007]}","{23: array([0.0229]), 24: array([0.00381667]), 25: array([0.0229]), 33: array([0.4])}",36.146990640943926
+422.52,[91.55555555555556],0,0,[91.55555555555556]
+424.54,[91.55555555555556],0,0,[91.55555555555556]
+426.56,65.00000000000001,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.0], 'Temperatuurschommeling': [2.59]}",{34: array([0.024])},65.00000000000001
+428.6,65.00000000000001,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.0], 'Temperatuurschommeling': [2.59]}",{34: array([0.024])},65.00000000000001
+430.62,65.00000000000006,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.910000000000025], 'Temperatuurschommeling': [3.0500000000000007]}",{34: array([0.14666667])},65.00000000000006
+432.66,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}",{25: array([0.00333333])},65.00000000000007
+434.68,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.17999999999999972]}",{25: array([0.00333333])},65.00000000000007
+436.7,[90.80808080808082],0,0,[90.80808080808082]
+438.72,[90.80808080808082],0,0,[90.80808080808082]
+440.74,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-6.849999999999966], 'Cafeïne': [1], 'Temperatuurschommeling': [0.9600000000000009]}",{25: array([0.00333333])},65.00000000000007
+442.77,64.99999999999997,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.1399999999999864], 'Temperatuurschommeling': [-1.0899999999999999]}",{25: array([0.01046667])},64.99999999999997
+444.8,64.99999999999997,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.1399999999999864], 'Temperatuurschommeling': [-1.0899999999999999]}",{25: array([0.01046667])},64.99999999999997
+446.83,64.99999999999997,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [3.079999999999984], 'Cafeïne': [6.2099999999999795], 'Temperatuurschommeling': [1.6999999999999993]}",{25: array([0.0207])},64.99999999999997
+448.86,65.0,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [9.569999999999993], 'Temperatuurschommeling': [2.4400000000000013]}",{25: array([0.0319])},65.0
+450.88,65.0,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [9.569999999999993], 'Temperatuurschommeling': [2.4400000000000013]}",{25: array([0.0319])},65.0
+452.92,65.00000000000004,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [13.149999999999977], 'Temperatuurschommeling': [2.219999999999999]}",{25: array([0.04383333])},65.00000000000004
+454.95,65.00000000000004,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [13.149999999999977], 'Temperatuurschommeling': [2.219999999999999]}",{25: array([0.04383333])},65.00000000000004
+456.98,65.0,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [3.0600000000000023], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.59]}",{34: array([0.29066667])},65.0
+459.0,[90.24786324786325],0,0,[90.24786324786325]
+461.02,[90.24786324786325],0,0,[90.24786324786325]
+463.04,[92.22222222222223],0,0,[92.22222222222223]
+465.08,[92.22222222222223],0,0,[92.22222222222223]
+467.1,[92.22222222222223],0,0,[92.22222222222223]
+469.14,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-3.0299999999999727], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3500000000000014]}",{25: array([0.00333333])},65.00000000000007
+471.17,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-3.0299999999999727], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3500000000000014]}",{25: array([0.00333333])},65.00000000000007
+473.21,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.920000000000016], 'Temperatuurschommeling': [-0.3200000000000003]}",{25: array([0.01306667])},65.00000000000003
+475.23,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.939999999999998], 'Temperatuurschommeling': [2.780000000000001]}","{25: array([0.02313333]), 34: array([0.07466667])}",65.00000000000004
+477.26,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.939999999999998], 'Temperatuurschommeling': [2.780000000000001]}","{25: array([0.02313333]), 34: array([0.07466667])}",65.00000000000004
+479.28,64.99999999999999,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.4299999999999997]}",{34: array([0.248])},64.99999999999999
+481.31,64.99999999999999,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.4299999999999997]}",{34: array([0.248])},64.99999999999999
+483.32,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.8000000000000114], 'Cafeïne': [-3.75], 'Temperatuurschommeling': [2.6799999999999997]}",{34: array([0.048])},65.00000000000003
+485.36,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [6.910000000000025], 'Cafeïne': [1], 'Temperatuurschommeling': [3.1000000000000014]}","{25: array([0.00333333]), 34: array([0.16])}",65.00000000000004
+487.39,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [6.910000000000025], 'Cafeïne': [1], 'Temperatuurschommeling': [3.1000000000000014]}","{25: array([0.00333333]), 34: array([0.16])}",65.00000000000004
+489.42,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.09]}",{34: array([0.15733333])},65.00000000000007
+491.43,65.00000000000007,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.09]}",{34: array([0.15733333])},65.00000000000007
+493.46,[90.80808080808082],0,0,[90.80808080808082]
+495.48,65.00000000000006,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.920000000000016], 'Temperatuurschommeling': [2.960000000000001]}",{34: array([0.12266667])},65.00000000000006
+497.5,65.00000000000006,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-6.920000000000016], 'Temperatuurschommeling': [2.960000000000001]}",{34: array([0.12266667])},65.00000000000006
+499.53,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [3.0600000000000023], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3099999999999987]}",{25: array([0.00333333])},65.00000000000007
+501.55,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [3.0600000000000023], 'Cafeïne': [1], 'Temperatuurschommeling': [2.3099999999999987]}",{25: array([0.00333333])},65.00000000000007
+503.57,[92.77777777777777],0,0,[92.77777777777777]
+505.61,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.0500000000000007]}",{25: array([0.00333333])},65.00000000000007
+507.63,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.0500000000000007]}",{25: array([0.00333333])},65.00000000000007
+509.63,[92.77777777777777],0,0,[92.77777777777777]
+511.67,[92.77777777777777],0,0,[92.77777777777777]
+513.68,64.99999999999994,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.8099999999999987]}","{25: array([0.00333333]), 34: array([0.08266667])}",64.99999999999994
+515.7,[92.77777777777777],0,0,[92.77777777777777]
+517.71,[92.77777777777777],0,0,[92.77777777777777]
+519.74,[92.77777777777777],0,0,[92.77777777777777]
+521.76,[92.77777777777777],0,0,[92.77777777777777]
+523.77,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [9.829999999999984], 'Cafeïne': [1], 'Temperatuurschommeling': [2.039999999999999]}",{25: array([0.00333333])},65.00000000000007
+525.8,64.99999999999997,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [13.099999999999966], 'Cafeïne': [3.259999999999991], 'Temperatuurschommeling': [1.4600000000000009]}",{25: array([0.01086667])},64.99999999999997
+527.84,64.99999999999997,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [13.099999999999966], 'Cafeïne': [3.259999999999991], 'Temperatuurschommeling': [1.4600000000000009]}",{25: array([0.01086667])},64.99999999999997
+529.85,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.350000000000023], 'Temperatuurschommeling': [2.66]}","{25: array([0.02116667]), 34: array([0.04266667])}",65.00000000000001
+531.88,[92.22222222222223],0,0,[92.22222222222223]
+533.9,[92.22222222222223],0,0,[92.22222222222223]
+535.92,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.19000000000000128]}",{25: array([0.00333333])},65.00000000000007
+537.94,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.19000000000000128]}",{25: array([0.00333333])},65.00000000000007
+539.97,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.07000000000005], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.539999999999999]}",{34: array([0.01066667])},65.00000000000001
+542.0,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.05999999999999872]}",{25: array([0.00333333])},65.00000000000007
+544.02,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.05999999999999872]}",{25: array([0.00333333])},65.00000000000007
+546.04,[92.22222222222223],0,0,[92.22222222222223]
+548.05,[92.22222222222223],0,0,[92.22222222222223]
+550.1,[92.22222222222223],0,0,[92.22222222222223]
+552.12,[92.22222222222223],0,0,[92.22222222222223]
+554.14,[92.22222222222223],0,0,[92.22222222222223]
+556.17,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.6099999999999], 'Cafeïne': [1], 'Temperatuurschommeling': [0.7699999999999996]}",{25: array([0.00333333])},65.00000000000007
+558.19,[92.22222222222223],0,0,[92.22222222222223]
+560.2,[92.22222222222223],0,0,[92.22222222222223]
+562.23,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.6400000000000006]}","{25: array([0.00333333]), 34: array([0.03733333])}",65.00000000000004
+564.25,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.6400000000000006]}","{25: array([0.00333333]), 34: array([0.03733333])}",65.00000000000004
+566.27,[92.22222222222223],0,0,[92.22222222222223]
+568.29,[92.22222222222223],0,0,[92.22222222222223]
+570.31,[92.22222222222223],0,0,[92.22222222222223]
+572.34,[92.22222222222223],0,0,[92.22222222222223]
+574.35,[92.22222222222223],0,0,[92.22222222222223]
+576.38,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [-9.989999999999895], 'Temperatuurschommeling': [3.41]}",{34: array([0.24266667])},65.00000000000003
+578.41,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [13.040000000000077], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.9400000000000013]}",{25: array([0.00333333])},65.00000000000007
+580.43,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [13.040000000000077], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.9400000000000013]}",{25: array([0.00333333])},65.00000000000007
+582.44,[92.77777777777777],0,0,[92.77777777777777]
+584.49,[92.77777777777777],0,0,[92.77777777777777]
+586.51,64.99999999999994,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-3.6099999999999], 'Temperatuurschommeling': [2.6999999999999993]}",{34: array([0.05333333])},64.99999999999994
+588.52,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.07000000000005], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.629999999999999]}",{25: array([0.00333333])},65.00000000000007
+590.55,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.07000000000005], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.629999999999999]}",{25: array([0.00333333])},65.00000000000007
+592.58,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3099999999999987]}",{34: array([0.216])},65.00000000000003
+594.62,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.3099999999999987]}",{34: array([0.216])},65.00000000000003
+596.63,64.99999999999994,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [3.3900000000000006]}","{25: array([0.00333333]), 34: array([0.23733333])}",64.99999999999994
+598.67,64.99999999999997,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.050000000000068], 'Cafeïne': [3.0399999999999636], 'Temperatuurschommeling': [-1.6600000000000001]}",{25: array([0.01013333])},64.99999999999997
+600.69,64.99999999999997,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.050000000000068], 'Cafeïne': [3.0399999999999636], 'Temperatuurschommeling': [-1.6600000000000001]}",{25: array([0.01013333])},64.99999999999997
+602.71,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.710000000000001]}",{34: array([0.32266667])},65.00000000000001
+604.74,65.00000000000001,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.710000000000001]}",{34: array([0.32266667])},65.00000000000001
+606.76,[92.77777777777777],0,0,[92.77777777777777]
+608.78,[92.22222222222223],0,0,[92.22222222222223]
+610.8,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-2.0]}",{25: array([0.00333333])},65.00000000000007
+612.82,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.3799999999999955], 'Cafeïne': [3.3799999999999955], 'Temperatuurschommeling': [1.1400000000000006]}",{25: array([0.01126667])},65.00000000000003
+614.85,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.3799999999999955], 'Cafeïne': [3.3799999999999955], 'Temperatuurschommeling': [1.1400000000000006]}",{25: array([0.01126667])},65.00000000000003
+616.88,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.949999999999932], 'Temperatuurschommeling': [0.28000000000000114]}",{25: array([0.02316667])},65.00000000000003
+618.91,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [6.949999999999932], 'Temperatuurschommeling': [0.28000000000000114]}",{25: array([0.02316667])},65.00000000000003
+620.93,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [10.0], 'Temperatuurschommeling': [3.91]}","{25: array([0.03333333]), 34: array([0.376])}",65.00000000000003
+622.95,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [10.0], 'Temperatuurschommeling': [3.91]}","{25: array([0.03333333]), 34: array([0.376])}",65.00000000000003
+624.98,65.0,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.92999999999995], 'Cafeïne': [13.92999999999995], 'Temperatuurschommeling': [-0.4400000000000013]}",{25: array([0.04643333])},65.0
+627.01,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [6.960000000000036], 'Cafeïne': [16.970000000000027], 'Temperatuurschommeling': [0.6799999999999997]}",{25: array([0.05656667])},65.00000000000001
+629.03,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [6.960000000000036], 'Cafeïne': [16.970000000000027], 'Temperatuurschommeling': [0.6799999999999997]}",{25: array([0.05656667])},65.00000000000001
+631.06,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [10.0], 'Cafeïne': [20.019999999999982], 'Temperatuurschommeling': [-1.4299999999999997]}",{25: array([0.06673333])},65.00000000000004
+633.08,64.99999999999996,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [23.91999999999996], 'Temperatuurschommeling': [3.2600000000000016]}","{25: array([0.07973333]), 34: array([0.20266667])}",64.99999999999996
+635.1,64.99999999999996,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [23.91999999999996], 'Temperatuurschommeling': [3.2600000000000016]}","{25: array([0.07973333]), 34: array([0.20266667])}",64.99999999999996
+637.11,[92.77777777777777],0,0,[92.77777777777777]
+639.15,[92.77777777777777],0,0,[92.77777777777777]
+641.16,64.99999999999999,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [2.629999999999999]}","{25: array([0.00333333]), 34: array([0.03466667])}",64.99999999999999
+643.19,[92.77777777777777],0,0,[92.77777777777777]
+645.21,[92.77777777777777],0,0,[92.77777777777777]
+647.23,[92.77777777777777],0,0,[92.77777777777777]
+649.25,[92.77777777777777],0,0,[92.77777777777777]
+651.28,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-3.25], 'Cafeïne': [1], 'Temperatuurschommeling': [2.210000000000001]}",{25: array([0.00333333])},65.00000000000007
+653.3,65.00000000000004,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.699999999999932], 'Temperatuurschommeling': [1.75]}",{25: array([0.01233333])},65.00000000000004
+655.33,65.00000000000004,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.699999999999932], 'Temperatuurschommeling': [1.75]}",{25: array([0.01233333])},65.00000000000004
+657.37,[92.22222222222223],0,0,[92.22222222222223]
+659.39,[92.77777777777777],0,0,[92.77777777777777]
+661.41,[92.77777777777777],0,0,[92.77777777777777]
+663.43,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [3.5], 'Cafeïne': [1], 'Temperatuurschommeling': [1.3299999999999983]}",{25: array([0.00333333])},65.00000000000007
+665.44,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [3.5], 'Cafeïne': [1], 'Temperatuurschommeling': [1.3299999999999983]}",{25: array([0.00333333])},65.00000000000007
+667.47,64.99999999999999,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.0599999999999454], 'Temperatuurschommeling': [0.14000000000000057]}",{25: array([0.0102])},64.99999999999999
+669.48,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.2100000000000364], 'Cafeïne': [6.269999999999982], 'Temperatuurschommeling': [1.7899999999999991]}",{25: array([0.0209])},65.00000000000003
+671.51,65.00000000000003,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.2100000000000364], 'Cafeïne': [6.269999999999982], 'Temperatuurschommeling': [1.7899999999999991]}",{25: array([0.0209])},65.00000000000003
+673.54,64.99999999999997,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-6.92999999999995], 'Cafeïne': [9.989999999999895], 'Temperatuurschommeling': [0.7800000000000011]}",{25: array([0.0333])},64.99999999999997
+675.57,64.99999999999997,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [0], 'Roken': [-6.92999999999995], 'Cafeïne': [9.989999999999895], 'Temperatuurschommeling': [0.7800000000000011]}",{25: array([0.0333])},64.99999999999997
+677.6,[92.77777777777777],0,0,[92.77777777777777]
+679.64,[91.55555555555556],0,0,[91.55555555555556]
+681.66,[91.55555555555556],0,0,[91.55555555555556]
+683.68,[91.55555555555556],0,0,[91.55555555555556]
+685.7,[90.80808080808082],0,0,[90.80808080808082]
+687.73,[90.80808080808082],0,0,[90.80808080808082]
+689.73,[91.55555555555556],0,0,[91.55555555555556]
+691.76,[91.55555555555556],0,0,[91.55555555555556]
+693.78,64.99999999999999,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-3.939999999999941], 'Cafeïne': [-16.93999999999994], 'Temperatuurschommeling': [3.879999999999999]}",{34: array([0.368])},64.99999999999999
+695.82,64.99999999999999,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [-3.939999999999941], 'Cafeïne': [-16.93999999999994], 'Temperatuurschommeling': [3.879999999999999]}",{34: array([0.368])},64.99999999999999
+697.86,[91.55555555555556],0,0,[91.55555555555556]
+699.88,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.620000000000001]}",{25: array([0.00333333])},65.00000000000007
+701.92,65.00000000000007,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.620000000000001]}",{25: array([0.00333333])},65.00000000000007
+703.94,65.00000000000003,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.9500000000000455], 'Temperatuurschommeling': [-1.6600000000000001]}",{25: array([0.01316667])},65.00000000000003
+705.97,65.00000000000003,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [3.9500000000000455], 'Temperatuurschommeling': [-1.6600000000000001]}",{25: array([0.01316667])},65.00000000000003
+707.99,64.99999999999996,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [6.919999999999959], 'Temperatuurschommeling': [3.6900000000000013]}","{25: array([0.02306667]), 34: array([0.31733333])}",64.99999999999996
+710.02,65.00000000000006,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-3.080000000000041], 'Cafeïne': [10.009999999999991], 'Temperatuurschommeling': [0.8599999999999994]}",{25: array([0.03336667])},65.00000000000006
+712.05,65.00000000000006,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [-3.080000000000041], 'Cafeïne': [10.009999999999991], 'Temperatuurschommeling': [0.8599999999999994]}",{25: array([0.03336667])},65.00000000000006
+714.07,64.99999999999996,"{'fysiologische_stressreactie': [90.80808080808082], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.9299999999999997]}",{34: array([0.38133333])},64.99999999999996
+716.11,[91.55555555555556],0,0,[91.55555555555556]
+718.15,[91.55555555555556],0,0,[91.55555555555556]
+720.17,65.00000000000007,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [6.340000000000032], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.7899999999999991]}",{25: array([0.00333333])},65.00000000000007
+722.18,65.00000000000007,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [6.340000000000032], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.7899999999999991]}",{25: array([0.00333333])},65.00000000000007
+724.21,64.99999999999994,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [9.970000000000027], 'Cafeïne': [-1], 'Temperatuurschommeling': [2.7699999999999996]}",{34: array([0.072])},64.99999999999994
+726.24,64.99999999999997,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [13.25], 'Cafeïne': [-3.2799999999999727], 'Temperatuurschommeling': [3.4499999999999993]}",{34: array([0.25333333])},64.99999999999997
+728.27,64.99999999999997,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [13.25], 'Cafeïne': [-3.2799999999999727], 'Temperatuurschommeling': [3.4499999999999993]}",{34: array([0.25333333])},64.99999999999997
+730.29,[92.22222222222223],0,0,[92.22222222222223]
+732.3,[92.22222222222223],0,0,[92.22222222222223]
+734.31,[92.22222222222223],0,0,[92.22222222222223]
+736.33,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.129999999999999]}",{25: array([0.00333333])},65.00000000000007
+738.37,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.129999999999999]}",{25: array([0.00333333])},65.00000000000007
+740.39,65.0,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.050000000000068], 'Temperatuurschommeling': [-0.8399999999999999]}",{25: array([0.01016667])},65.0
+742.42,65.0,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [3.050000000000068], 'Temperatuurschommeling': [-0.8399999999999999]}",{25: array([0.01016667])},65.0
+744.45,39.964383763452645,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [6.670000000000073], 'Temperatuurschommeling': [3.960000000000001]}","{23: array([0.02223333]), 24: array([0.00370556]), 25: array([0.02223333]), 30: array([0.38933333]), 32: array([0.02]), 34: array([0.25])}",39.964383763452645
+746.49,36.838144079920454,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-3.3299999999999272], 'Cafeïne': [10.0], 'Temperatuurschommeling': [1.0]}","{23: array([0.03333333]), 24: array([0.00555556]), 25: array([0.03333333]), 32: array([0.33333333])}",36.838144079920454
+748.52,36.838144079920454,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [-3.3299999999999272], 'Cafeïne': [10.0], 'Temperatuurschommeling': [1.0]}","{23: array([0.03333333]), 24: array([0.00555556]), 25: array([0.03333333]), 32: array([0.33333333])}",36.838144079920454
+750.55,44.75250782929362,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.9800000000000004]}","{18: array([0.4]), 30: array([0.39466667]), 32: array([0.01]), 34: array([0.25])}",44.75250782929362
+752.58,44.75250782929362,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.9800000000000004]}","{18: array([0.4]), 30: array([0.39466667]), 32: array([0.01]), 34: array([0.25])}",44.75250782929362
+754.61,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.9499999999999993]}",{25: array([0.00333333])},65.00000000000007
+756.64,64.99999999999997,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-3.409999999999968], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.5799999999999983]}",{34: array([0.288])},64.99999999999997
+758.65,64.99999999999997,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [-3.409999999999968], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.5799999999999983]}",{34: array([0.288])},64.99999999999997
+760.67,49.938150337244544,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.8599999999999994]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.4])}",49.938150337244544
+762.71,34.99999999999996,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5199999999999996]}",{33: array([0.01333333])},34.99999999999996
+764.74,34.99999999999996,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5199999999999996]}",{33: array([0.01333333])},34.99999999999996
+766.77,64.66561474828765,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.10999999999999943]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333])}",64.66561474828765
+768.8,64.66561474828765,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [-0.10999999999999943]}","{18: array([0.4]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333])}",64.66561474828765
+770.82,42.47659128315002,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.4200000000000017]}","{30: array([0.24533333]), 32: array([0.29]), 34: array([0.24533333])}",42.47659128315002
+772.86,42.33140463365782,"{'fysiologische_stressreactie': [70.00000000000001], 'BewegingSport': [0], 'Roken': [-3.3600000000000136], 'Cafeïne': [-3.3600000000000136], 'Temperatuurschommeling': [3.530000000000001]}","{30: array([0.27466667]), 32: array([0.235]), 34: array([0.25])}",42.33140463365782
+774.89,65.00000000000003,"{'fysiologische_stressreactie': [90.24786324786325], 'BewegingSport': [7.222222222222223], 'Roken': [-3.3600000000000136], 'Cafeïne': [-3.3600000000000136], 'Temperatuurschommeling': [3.530000000000001]}",{34: array([0.27466667])},65.00000000000003
+776.92,[90.24786324786325],0,0,[90.24786324786325]
+778.95,[90.24786324786325],0,0,[90.24786324786325]
+780.98,[91.55555555555556],0,0,[91.55555555555556]
+783.02,[91.55555555555556],0,0,[91.55555555555556]
+785.04,[91.55555555555556],0,0,[91.55555555555556]
+787.06,[91.55555555555556],0,0,[91.55555555555556]
+789.08,[91.55555555555556],0,0,[91.55555555555556]
+791.1,[91.55555555555556],0,0,[91.55555555555556]
+793.12,[91.55555555555556],0,0,[91.55555555555556]
+795.13,[92.22222222222223],0,0,[92.22222222222223]
+797.15,[92.22222222222223],0,0,[92.22222222222223]
+799.17,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [43.455289897263484], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.3099999999999987]}",{25: array([0.00333333])},65.00000000000007
+801.2,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [43.455289897263484], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [1.3099999999999987]}",{25: array([0.00333333])},65.00000000000007
+803.23,65.00000000000006,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [43.455289897263484], 'Roken': [-1], 'Cafeïne': [3.1100000000000136], 'Temperatuurschommeling': [-0.629999999999999]}",{25: array([0.01036667])},65.00000000000006
+805.25,64.99999999999996,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [6.189999999999941], 'Temperatuurschommeling': [-0.6400000000000006]}",{25: array([0.02063333])},64.99999999999996
+807.28,64.99999999999996,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [1], 'Cafeïne': [6.189999999999941], 'Temperatuurschommeling': [-0.6400000000000006]}",{25: array([0.02063333])},64.99999999999996
+809.32,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [3.1299999999999955], 'Cafeïne': [9.330000000000041], 'Temperatuurschommeling': [-0.3999999999999986]}",{25: array([0.0311])},65.00000000000001
+811.35,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [12.389999999999986], 'Temperatuurschommeling': [3.379999999999999]}","{25: array([0.0413]), 34: array([0.23466667])}",65.00000000000001
+813.37,65.00000000000001,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [12.389999999999986], 'Temperatuurschommeling': [3.379999999999999]}","{25: array([0.0413]), 34: array([0.23466667])}",65.00000000000001
+815.38,[92.77777777777777],0,0,[92.77777777777777]
+817.41,[92.77777777777777],0,0,[92.77777777777777]
+819.43,65.00000000000007,"{'fysiologische_stressreactie': [92.77777777777777], 'BewegingSport': [7.222222222222223], 'Roken': [3.449999999999932], 'Cafeïne': [1], 'Temperatuurschommeling': [-1.25]}",{25: array([0.00333333])},65.00000000000007
+821.45,65.0,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [3.050000000000068], 'Temperatuurschommeling': [-0.7699999999999996]}",{25: array([0.01016667])},65.0
+823.47,65.0,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [3.050000000000068], 'Temperatuurschommeling': [-0.7699999999999996]}",{25: array([0.01016667])},65.0
+825.49,64.99999999999999,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.620000000000001]}",{34: array([0.29866667])},64.99999999999999
+827.52,64.99999999999999,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.620000000000001]}",{34: array([0.29866667])},64.99999999999999
+829.55,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.23999999999999844]}",{25: array([0.00333333])},65.00000000000007
+831.58,65.00000000000007,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [-1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.23999999999999844]}",{25: array([0.00333333])},65.00000000000007
+833.6,64.99999999999996,"{'fysiologische_stressreactie': [92.22222222222223], 'BewegingSport': [7.222222222222223], 'Roken': [-4.039999999999964], 'Cafeïne': [4.039999999999964], 'Temperatuurschommeling': [0.10000000000000142]}",{25: array([0.01346667])},64.99999999999996
+835.63,[91.55555555555556],0,0,[91.55555555555556]
+837.64,[91.55555555555556],0,0,[91.55555555555556]
+839.67,65.00000000000007,"{'fysiologische_stressreactie': [91.55555555555556], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.35999999999999943]}",{25: array([0.00333333])},65.00000000000007
+841.7,65.00000000000007,"{'fysiologische_stressreactie': [90.94912553152149], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [1], 'Temperatuurschommeling': [0.35999999999999943]}",{25: array([0.00333333])},65.00000000000007
+843.72,64.99999999999991,"{'fysiologische_stressreactie': [90.94912553152149], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.25], 'Temperatuurschommeling': [0.030000000000001137]}",{25: array([0.01083333])},64.99999999999991
+845.74,[90.94431607399021],0,0,[90.94431607399021]
+847.76,[90.94431607399021],0,0,[90.94431607399021]
+849.8,64.99999999999996,"{'fysiologische_stressreactie': [90.94431607399021], 'BewegingSport': [0], 'Roken': [-6.880000000000109], 'Cafeïne': [-3.840000000000032], 'Temperatuurschommeling': [3.1999999999999993]}",{34: array([0.18666667])},64.99999999999996
+851.83,64.99999999999996,"{'fysiologische_stressreactie': [90.94412364440753], 'BewegingSport': [0], 'Roken': [-6.880000000000109], 'Cafeïne': [-3.840000000000032], 'Temperatuurschommeling': [3.1999999999999993]}",{34: array([0.18666667])},64.99999999999996
+853.87,[90.94412364440753],0,0,[90.94412364440753]
+855.89,[90.94450849963042],0,0,[90.94450849963042]
+857.91,[90.94450849963042],0,0,[90.94450849963042]
+859.95,64.99999999999997,"{'fysiologische_stressreactie': [90.94373877341543], 'BewegingSport': [0], 'Roken': [3.7999999999999545], 'Cafeïne': [1], 'Temperatuurschommeling': [3.75]}","{25: array([0.00333333]), 34: array([0.33333333])}",64.99999999999997
+861.97,64.99999999999997,"{'fysiologische_stressreactie': [90.94373877341543], 'BewegingSport': [0], 'Roken': [3.7999999999999545], 'Cafeïne': [1], 'Temperatuurschommeling': [3.75]}","{25: array([0.00333333]), 34: array([0.33333333])}",64.99999999999997
+864.0,64.99999999999996,"{'fysiologische_stressreactie': [90.94373877341543], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [3.150000000000091], 'Temperatuurschommeling': [2.9400000000000013]}","{25: array([0.0105]), 34: array([0.11733333])}",64.99999999999996
+866.03,65.00000000000003,"{'fysiologische_stressreactie': [90.37945599996145], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [6.210000000000036], 'Temperatuurschommeling': [3.530000000000001]}","{25: array([0.0207]), 34: array([0.27466667])}",65.00000000000003
+868.07,65.00000000000003,"{'fysiologische_stressreactie': [90.37945599996145], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [6.210000000000036], 'Temperatuurschommeling': [3.530000000000001]}","{25: array([0.0207]), 34: array([0.27466667])}",65.00000000000003
+870.1,60.84957372067417,"{'fysiologische_stressreactie': [74.22204876197134], 'BewegingSport': [7.222222222222223], 'Roken': [3.1900000000000546], 'Cafeïne': [-1], 'Temperatuurschommeling': [-0.5599999999999987]}","{18: array([0.23111805]), 33: array([0.04])}",60.84957372067417
+872.13,49.89913200948096,"{'fysiologische_stressreactie': [74.22204876197134], 'BewegingSport': [7.222222222222223], 'Roken': [6.92999999999995], 'Cafeïne': [1], 'Temperatuurschommeling': [2.129999999999999]}","{18: array([0.23111805]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.23111805])}",49.89913200948096
+874.16,49.89913200948096,"{'fysiologische_stressreactie': [74.22204876197134], 'BewegingSport': [0], 'Roken': [6.92999999999995], 'Cafeïne': [1], 'Temperatuurschommeling': [2.129999999999999]}","{18: array([0.23111805]), 23: array([0.00333333]), 24: array([0.00055556]), 25: array([0.00333333]), 32: array([0.23111805])}",49.89913200948096
+876.19,40.57472849490625,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.8599999999999994]}","{30: array([0.36266667]), 32: array([0.07]), 34: array([0.25])}",40.57472849490625
+878.22,40.57472849490625,"{'fysiologische_stressreactie': [70.00000000000004], 'BewegingSport': [0], 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [3.8599999999999994]}","{30: array([0.36266667]), 32: array([0.07]), 34: array([0.25])}",40.57472849490625

@@ -1,4 +1,0 @@
-timestamp,output,input,relevant,string_output
-3.53,-1.0,"{'fysiologische_stressreactie': 0, 'BewegingSport': 0, 'Roken': [-1], 'Cafeïne': [-1], 'Temperatuurschommeling': [-1.7399999999999984]}",{40: 1.0},-1.0
-5.54,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.0399999999999996], 'Temperatuurschommeling': [1.2100000000000009]}",{40: array([1.])},-1.0
-9.56,-1.0,"{'fysiologische_stressreactie': [0], 'BewegingSport': [0], 'Roken': [1], 'Cafeïne': [-3.0399999999999996], 'Temperatuurschommeling': [1.2100000000000009]}",{40: array([1.])},-1.0

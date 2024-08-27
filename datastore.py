@@ -17,11 +17,10 @@ class DataStoreManager:
         print(current_directory)
 
         # SELECTEER HIER OF JE MET DOCKER RUNT OF NIET
-        self.filename_output = f'{current_directory}/output/long_out/{event_name_out}_history.csv'
-        #self.filename_output = f'app/output/Docker_out/{event_name_out}_history.csv'
+        #self.filename_output = f'{current_directory}/output/long_out/{event_name_out}_history.csv'
+        self.filename_output = f'app/output/Docker_out/{event_name_out}_history.csv'
         self.print_manager = PrintManager()
         
-
     # Methode om gegevens op te slaan in de data queue
     def store_data(self, event: Dict[str, Any]):
         self.data_queue.append(event)
@@ -32,7 +31,7 @@ class DataStoreManager:
 
         try:
             # Zorg ervoor dat de output directory bestaat
-            #os.makedirs(os.path.dirname(self.filename_output), exist_ok=True)
+            os.makedirs(os.path.dirname(self.filename_output), exist_ok=True)
 
             # Open het bestand en schrijf de data
             with open(self.filename_output, 'w', newline='') as file:
